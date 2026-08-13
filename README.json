@@ -1,0 +1,559 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "DL4M summary"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep learning driven jazz generation using Keras & Theano",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T03:10:31Z",
+            "owner": "jisungk",
+            "repo": "deepjazz",
+            "stars": 2889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Finding the genre of a song with Deep Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-26T19:31:50Z",
+            "owner": "despoisj",
+            "repo": "DeepAudioClassification",
+            "stars": 1114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Separating singing voice from music based on deep neural networks in Tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-18T11:50:02Z",
+            "owner": "andabi",
+            "repo": "music-source-separation",
+            "stars": 800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Music Genre Classification with LSTMs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-04T01:17:03Z",
+            "owner": "ruohoruotsi",
+            "repo": "LSTM-Music-Genre-Classification",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Music Genre classification on GTZAN dataset using CNNs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-25T00:32:31Z",
+            "owner": "Hguimaraes",
+            "repo": "gtzan.keras",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio Classifier in Keras using Convolutional Neural Network",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-06T16:14:57Z",
+            "owner": "drscotthawley",
+            "repo": "audio-classifier-keras-cnn",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "End-to-end learning for music audio tagging at scale",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-30T06:11:10Z",
+            "owner": "jordipons",
+            "repo": "music-audio-tagging-at-scale-models",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Composing music using neural nets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-01-11T17:46:32Z",
+            "owner": "fephsun",
+            "repo": "neuralnetmusic",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Music tag classification model using CRNN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-27T11:11:34Z",
+            "owner": "kristijanbartol",
+            "repo": "Deep-Music-Tagger",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Performance-RNN-PyTorch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-02-10T20:54:25Z",
+            "owner": "djosix",
+            "repo": "Performance-RNN-PyTorch",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CNN based Music Emotion Classification using TensorFlow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-11-06T08:42:50Z",
+            "owner": "rickiepark",
+            "repo": "cnn_mer",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pitch Estimation of Choir Music using Deep Learning Strategies: from Solo to Unison Recordings",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Code without articles"
+    },
+    {
+      "description": "Please refer to the advice_review.md file.",
+      "items": [],
+      "title": "Advices for reviewers of dl4m articles"
+    },
+    {
+      "description": "Contributions are welcome! Please refer to the CONTRIBUTING.md file.",
+      "items": [],
+      "title": "How To Contribute"
+    },
+    {
+      "description": "The articles are first sorted by decreasing year (to keep up with the latest news) and then alphabetically by the main author's family name.\nI want to have exhaustive research and the latest news on DL4M. However, one should take care of the information provided in the articles currently in review. If possible you should wait for the final accepted and peer-reviewed version before citing an arXiv paper. I regularly update the arXiv links to the corresponding published papers when available.\nThe list provided here does not guarantee the quality of the articles. You should either try to reproduce the experiments described or submit a request to ReScience. Use one article's conclusion at your own risks.",
+      "items": [],
+      "title": "FAQ"
+    },
+    {
+      "description": "A list of useful acronyms used in deep learning and music is stored in acronyms.md.",
+      "items": [],
+      "title": "Acronyms used"
+    },
+    {
+      "description": "The list of conferences, journals and aggregators used to gather the proposed materials is stored in sources.md.",
+      "items": [],
+      "title": "Sources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other useful related lists and resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Python",
+          "description": "Audio section of Python resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WWW 2018 Challenge",
+          "description": "Learning to Recognize Musical Genre on the FMA dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-05T15:15:38Z",
+            "owner": "mdeff",
+            "repo": "fma",
+            "stars": 2646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Music",
+          "description": "Music softwares",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-27T20:46:02Z",
+            "owner": "noteflakes",
+            "repo": "awesome-music",
+            "stars": 2468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Python Scientific Audio",
+          "description": "Python resources for Audio and Machine Learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-11T16:45:13Z",
+            "owner": "faroit",
+            "repo": "awesome-python-scientific-audio",
+            "stars": 1707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Music Production",
+          "description": "Music creation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-19T18:38:38Z",
+            "owner": "ad-si",
+            "repo": "awesome-music-production",
+            "stars": 1471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Web Audio",
+          "description": "WebAudio packages and resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-05T01:54:36Z",
+            "owner": "notthetup",
+            "repo": "awesome-webaudio",
+            "stars": 1397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Music generation with DL",
+          "description": "List of resources on music generation with deep learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-02T09:30:42Z",
+            "owner": "umbrellabeach",
+            "repo": "music-generation-with-DL",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DL4MIR tutorial with keras",
+          "description": "Tutorial for Deep Learning on Music Information Retrieval by Thomas Lidy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-10-04T14:42:00Z",
+            "owner": "tuwien-musicir",
+            "repo": "DL_MIR_Tutorial",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DL4MIR tutorial",
+          "description": "Python tutorials for learning to solve MIR tasks with DL",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2016-02-09T14:56:52Z",
+            "owner": "marl",
+            "repo": "dl4mir-tutorial",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome public datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T19:54:53Z",
+            "owner": "awesomedata",
+            "repo": "awesome-public-datasets",
+            "stars": 78077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome music listening",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-14T15:27:58Z",
+            "owner": "ybayle",
+            "repo": "awesome-music-listening",
+            "stars": 161
+          }
+        }
+      ],
+      "title": "Music datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "General",
+          "description": "lists",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML from scratch",
+          "description": "Python implementations of ML models and algorithms from scratch from Data Mining to DL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-15T06:05:06Z",
+            "owner": "eriklindernoren",
+            "repo": "ML-From-Scratch",
+            "stars": 32457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Deep Learning",
+          "description": "General deep learning resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-26T12:28:00Z",
+            "owner": "ChristosChristofidis",
+            "repo": "awesome-deep-learning",
+            "stars": 28747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cheatsheets AI",
+          "description": "Cheat Sheets for Keras, neural networks, scikit-learn,...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-19T12:33:06Z",
+            "owner": "kailashahirwar",
+            "repo": "cheatsheets-ai",
+            "stars": 15426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub repo for sklearn add-on for imbalanced learning",
+          "description": "ML in uneven datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T16:33:16Z",
+            "owner": "scikit-learn-contrib",
+            "repo": "imbalanced-learn",
+            "stars": 7117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome RNNs",
+          "description": "RNNs code, theory and applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-03T05:56:39Z",
+            "owner": "kjw0612",
+            "repo": "awesome-rnn",
+            "stars": 6210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DL PaperNotes",
+          "description": "Summaries and notes on general deep learning research papers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-02-13T01:04:02Z",
+            "owner": "dennybritz",
+            "repo": "deeplearning-papernotes",
+            "stars": 4423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model Convertors",
+          "description": "Convertors for DL frameworks and backend",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-26T14:22:18Z",
+            "owner": "ysh329",
+            "repo": "deep-learning-model-convertor",
+            "stars": 3236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Deep Learning Resources",
+          "description": "Papers regarding deep learning and deep reinforcement learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-28T10:58:06Z",
+            "owner": "endymecy",
+            "repo": "awesome-deeplearning-resources",
+            "stars": 3022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep architecture genealogy",
+          "description": "Genealogy of DL architectures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-14T04:24:09Z",
+            "owner": "hunkim",
+            "repo": "deep_architecture_genealogy",
+            "stars": 1220
+          }
+        }
+      ],
+      "title": "Deep learning"
+    },
+    {
+      "description": "You are free to copy, modify, and distribute Deep Learning for Music (DL4M) with attribution under the terms of the MIT license. See the LICENSE file for details. This project use another projects and you may refer to them for appropriate license information :",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Readme checklist",
+          "description": "To build an universal Readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-12T20:32:14Z",
+            "owner": "ddbeck",
+            "repo": "readme-checklist",
+            "stars": 667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bibtexparser",
+          "description": "To deal with the bib entries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T12:18:57Z",
+            "owner": "sciunto-org",
+            "repo": "python-bibtexparser",
+            "stars": 570
+          }
+        }
+      ],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:36:40.317Z",
+    "original_repository": "ybayle/awesome-deep-learning-music",
+    "original_repository_sha": "2059f5f72c05f0cc9c522503772011c17c62acaf",
+    "enhanced_repository": "enhansome/enhansome-deep-learning-music",
+    "enhanced_repository_description": null,
+    "title": "Awesome Deep Learning for Music (DL4M) with stars"
+  }
+}
