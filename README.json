@@ -215,7 +215,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313743
+            "stars": 313929
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2468
+            "stars": 2469
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78077
+            "stars": 78093
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495272
+            "stars": 495658
           }
         },
         {
@@ -395,7 +395,7 @@
             "last_commit": "2023-10-15T06:05:06Z",
             "owner": "eriklindernoren",
             "repo": "ML-From-Scratch",
-            "stars": 32457
+            "stars": 32463
           }
         },
         {
@@ -409,7 +409,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28747
+            "stars": 28751
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2019-10-19T12:33:06Z",
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15426
+            "stars": 15428
           }
         },
         {
@@ -541,7 +541,7 @@
             "last_commit": "2026-06-12T12:18:57Z",
             "owner": "sciunto-org",
             "repo": "python-bibtexparser",
-            "stars": 570
+            "stars": 569
           }
         }
       ],
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:36:40.317Z",
+    "last_updated": "2026-08-14T15:28:46.990Z",
     "original_repository": "ybayle/awesome-deep-learning-music",
     "original_repository_sha": "2059f5f72c05f0cc9c522503772011c17c62acaf",
     "enhanced_repository": "enhansome/enhansome-deep-learning-music",
