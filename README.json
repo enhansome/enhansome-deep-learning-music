@@ -212,10 +212,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T06:11:04Z",
+            "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314093
+            "stars": 314259
           }
         },
         {
@@ -271,7 +271,7 @@
             "last_commit": "2026-07-19T18:38:38Z",
             "owner": "ad-si",
             "repo": "awesome-music-production",
-            "stars": 1471
+            "stars": 1473
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78099
+            "stars": 78112
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496003
+            "stars": 496403
           }
         },
         {
@@ -395,7 +395,7 @@
             "last_commit": "2023-10-15T06:05:06Z",
             "owner": "eriklindernoren",
             "repo": "ML-From-Scratch",
-            "stars": 32466
+            "stars": 32476
           }
         },
         {
@@ -409,7 +409,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28758
+            "stars": 28764
           }
         },
         {
@@ -437,7 +437,7 @@
             "last_commit": "2026-06-29T16:33:16Z",
             "owner": "scikit-learn-contrib",
             "repo": "imbalanced-learn",
-            "stars": 7117
+            "stars": 7118
           }
         },
         {
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:57:26.795Z",
+    "last_updated": "2026-08-16T14:57:26.842Z",
     "original_repository": "ybayle/awesome-deep-learning-music",
     "original_repository_sha": "2059f5f72c05f0cc9c522503772011c17c62acaf",
     "enhanced_repository": "enhansome/enhansome-deep-learning-music",
