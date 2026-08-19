@@ -327,7 +327,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Audio
 
-* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 314,851 | 🐛 18 | 🌐 Python | 📅 2026-08-16 - Audio section of Python resources
+* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 314,886 | 🐛 18 | 🌐 Python | 📅 2026-08-16 - Audio section of Python resources
 * [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,648 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
 * [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,471 | 🐛 25 | 📅 2026-05-27 - Music softwares
 * [Awesome Python Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,708 | 🐛 35 | 📅 2026-06-11 - Python resources for Audio and Machine Learning
@@ -352,7 +352,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Music datasets
 
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,143 | 🐛 159 | 📅 2026-08-04
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,146 | 🐛 159 | 📅 2026-08-04
 * [Awesome music listening](https://github.com/ybayle/awesome-music-listening) ⭐ 161 | 🐛 3 | 📅 2025-10-14
 * [AudioContentAnalysis nearly exhaustive list of music-related datasets](http://www.audiocontentanalysis.org/data-sets/)
 * [Teaching MIR](https://teachingmir.wikispaces.com/Datasets)
@@ -363,13 +363,13 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Deep learning
 
-* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18 lists
-* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,494 | 🐛 77 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
+* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,708 | 🐛 102 | 📅 2026-08-18 lists
+* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,495 | 🐛 77 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,778 | 🐛 85 | 📅 2025-05-26 - General deep learning resources
 * [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,428 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
 * [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,118 | 🐛 81 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
-* [Awesome RNNs](https://github.com/kjw0612/awesome-rnn) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03 - RNNs code, theory and applications
-* [DL PaperNotes](https://github.com/dennybritz/deeplearning-papernotes) ⭐ 4,423 | 🐛 6 | 📅 2018-02-13 - Summaries and notes on general deep learning research papers
+* [Awesome RNNs](https://github.com/kjw0612/awesome-rnn) ⭐ 6,210 | 🐛 4 | 📅 2022-02-03 - RNNs code, theory and applications
+* [DL PaperNotes](https://github.com/dennybritz/deeplearning-papernotes) ⭐ 4,420 | 🐛 6 | 📅 2018-02-13 - Summaries and notes on general deep learning research papers
 * [Model Convertors](https://github.com/ysh329/deep-learning-model-convertor) ⭐ 3,236 | 🐛 2 | 📅 2023-06-26 - Convertors for DL frameworks and backend
 * [Awesome Deep Learning Resources](https://github.com/endymecy/awesome-deeplearning-resources) ⭐ 3,023 | 🐛 3 | 📅 2026-01-28 - Papers regarding deep learning and deep reinforcement learning
 * [Deep architecture genealogy](https://github.com/hunkim/deep_architecture_genealogy) ⭐ 1,220 | 🐛 6 | 🌐 Python | 📅 2021-02-14 - Genealogy of DL architectures
