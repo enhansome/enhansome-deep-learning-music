@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-21T14:25:23Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315267
+                "stars": 315469
               }
             },
             {
@@ -327,10 +327,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-04T19:54:53Z",
+                "last_commit": "2026-08-21T17:12:16Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78368
+                "stars": 78456
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 498526
+                "stars": 498878
               }
             },
             {
@@ -382,7 +382,7 @@
                 "last_commit": "2023-10-15T06:05:06Z",
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 32502
+                "stars": 32505
               }
             },
             {
@@ -397,7 +397,7 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28788
+                "stars": 28796
               }
             },
             {
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:07:33.265Z",
+    "last_updated": "2026-08-22T14:56:48.780Z",
     "original_repository": "ybayle/awesome-deep-learning-music",
     "original_repository_id": 100402731,
     "original_repository_sha": "2059f5f72c05f0cc9c522503772011c17c62acaf",
