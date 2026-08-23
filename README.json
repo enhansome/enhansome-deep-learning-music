@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 21289110,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:25:23Z",
+                "last_commit": "2026-08-23T08:02:10Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315469
+                "stars": 315619
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2023-01-05T15:15:38Z",
                 "owner": "mdeff",
                 "repo": "fma",
-                "stars": 2648
+                "stars": 2649
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-05-27T20:46:02Z",
                 "owner": "noteflakes",
                 "repo": "awesome-music",
-                "stars": 2474
+                "stars": 2477
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-07-19T18:38:38Z",
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1477
+                "stars": 1478
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2026-08-21T17:12:16Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78456
+                "stars": 78529
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 498878
+                "stars": 499171
               }
             },
             {
@@ -382,7 +382,7 @@
                 "last_commit": "2023-10-15T06:05:06Z",
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 32505
+                "stars": 32512
               }
             },
             {
@@ -397,7 +397,7 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28796
+                "stars": 28801
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2019-10-19T12:33:06Z",
                 "owner": "kailashahirwar",
                 "repo": "cheatsheets-ai",
-                "stars": 15427
+                "stars": 15428
               }
             },
             {
@@ -442,7 +442,7 @@
                 "last_commit": "2022-02-03T05:56:39Z",
                 "owner": "kjw0612",
                 "repo": "awesome-rnn",
-                "stars": 6209
+                "stars": 6208
               }
             },
             {
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:56:48.780Z",
+    "last_updated": "2026-08-23T14:57:54.611Z",
     "original_repository": "ybayle/awesome-deep-learning-music",
     "original_repository_id": 100402731,
     "original_repository_sha": "2059f5f72c05f0cc9c522503772011c17c62acaf",
