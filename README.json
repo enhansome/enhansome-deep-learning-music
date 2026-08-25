@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2015",
-          "description": "Auralisation of deep convolutional neural networks: Listening to learned features GitHub",
+          "title": "keunwoochoi/Auralisation",
+          "description": "Auralisation of deep convolutional neural networks: Listening to learned features",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "2015",
-          "description": "Deep learning and music adversaries GitHub",
+          "title": "coreyker/dnn-mgr",
+          "description": "Deep learning and music adversaries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "2015",
-          "description": "Exploring data augmentation for improved singing voice detection with neural networks GitHub",
+          "title": "f0k/ismir2015",
+          "description": "Exploring data augmentation for improved singing voice detection with neural networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "2015",
-          "description": "Folk music style modelling by recurrent neural networks with long short term memory units GitHub",
+          "title": "IraKorshunova/folk-rnn",
+          "description": "Folk music style modelling by recurrent neural networks with long short term memory units",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "DeepBach: A steerable model for Bach chorales generation GitHub",
+          "title": "Ghadjeres/DeepBach",
+          "description": "DeepBach: A steerable model for Bach chorales generation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "Feature learning for chord recognition: The deep chroma extractor GitHub",
+          "title": "fdlm/chordrec",
+          "description": "Feature learning for chord recognition: The deep chroma extractor",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "Event localization in music auto-tagging GitHub",
+          "title": "ciaua/clip2frame",
+          "description": "Event localization in music auto-tagging",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,7 +125,7 @@
         },
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lostanlen/ismir2016",
           "description": null,
           "children": [],
           "repo_info": {
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "SampleRNN: An unconditional end-to-end neural audio generation model GitHub",
+          "title": "soroushmehr/sampleRNN_ICLR2017",
+          "description": "SampleRNN: An unconditional end-to-end neural audio generation model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "Music transcription modelling and composition using deep learning GitHub",
+          "title": "IraKorshunova/folk-rnn",
+          "description": "Music transcription modelling and composition using deep learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,8 +170,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "JamBot: Music theory aware chord based generation of polyphonic music with LSTMs GitHub",
+          "title": "brunnergino/JamBot",
+          "description": "JamBot: Music theory aware chord based generation of polyphonic music with LSTMs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Monoaural audio source separation using deep convolutional neural networks GitHub",
+          "title": "MTG/DeepConvSep",
+          "description": "Monoaural audio source separation using deep convolutional neural networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "A tutorial on deep learning for music information retrieval GitHub",
+          "title": "keunwoochoi/dl4mir",
+          "description": "A tutorial on deep learning for music information retrieval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "A comparison on audio signal preprocessing methods for deep neural networks on music tagging GitHub",
+          "title": "keunwoochoi/transfer_learning_music",
+          "description": "A comparison on audio signal preprocessing methods for deep neural networks on music tagging",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,8 +230,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Transfer learning for music classification and regression tasks GitHub",
+          "title": "keunwoochoi/transfer_learning_music",
+          "description": "Transfer learning for music classification and regression tasks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,8 +245,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Convolutional recurrent neural networks for music classification GitHub",
+          "title": "keunwoochoi/icassp_2017",
+          "description": "Convolutional recurrent neural networks for music classification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,8 +260,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Audio to score matching by combining phonetic and duration information GitHub",
+          "title": "ronggong/jingjuSingingPhraseMatching",
+          "description": "Audio to score matching by combining phonetic and duration information",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,8 +275,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Singing voice separation with deep U-Net convolutional networks GitHub",
+          "title": "Xiao-Ming/UNet-VocalSeparation-Chainer",
+          "description": "Singing voice separation with deep U-Net convolutional networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,8 +290,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Multi-level and multi-scale feature aggregation using sample-level deep convolutional neural networks for music classification GitHub",
+          "title": "jongpillee/musicTagging_MSD",
+          "description": "Multi-level and multi-scale feature aggregation using sample-level deep convolutional neural networks for music classification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -305,8 +305,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "A SeqGAN for Polyphonic Music Generation GitHub",
+          "title": "L0SG/seqgan-music",
+          "description": "A SeqGAN for Polyphonic Music Generation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,8 +320,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Monaural Singing Voice Separation with Skip-Filtering Connections and Recurrent Inference of Time-Frequency Mask GitHub",
+          "title": "Js-Mim/mss_pytorch",
+          "description": "Monaural Singing Voice Separation with Skip-Filtering Connections and Recurrent Inference of Time-Frequency Mask",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,8 +335,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Generating data to train convolutional neural networks for classical music source separation GitHub",
+          "title": "MTG/DeepConvSep",
+          "description": "Generating data to train convolutional neural networks for classical music source separation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -350,8 +350,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Monaural score-informed source separation for classical music using convolutional neural networks GitHub",
+          "title": "MTG/DeepConvSep",
+          "description": "Monaural score-informed source separation for classical music using convolutional neural networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,8 +365,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Multi-label music genre classification from audio, text, and images using deep features GitHub",
+          "title": "sergiooramas/tartarus",
+          "description": "Multi-label music genre classification from audio, text, and images using deep features",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,8 +380,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "A deep multimodal approach for cold-start music recommendation GitHub",
+          "title": "sergiooramas/tartarus",
+          "description": "A deep multimodal approach for cold-start music recommendation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,8 +395,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Score-informed syllable segmentation for a cappella singing voice with convolutional neural networks GitHub",
+          "title": "ronggong/jingjuSyllabicSegmentaion",
+          "description": "Score-informed syllable segmentation for a cappella singing voice with convolutional neural networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,8 +410,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "End-to-end learning for music audio tagging at scale GitHub",
+          "title": "jordipons/music-audio-tagging-at-scale-models",
+          "description": "End-to-end learning for music audio tagging at scale",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -425,8 +425,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Designing efficient architectures for modeling temporal features with convolutional neural networks GitHub",
+          "title": "jordipons/ICASSP2017",
+          "description": "Designing efficient architectures for modeling temporal features with convolutional neural networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,7 +455,7 @@
         },
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jordipons/EUSIPCO2017",
           "description": null,
           "children": [],
           "repo_info": {
@@ -470,8 +470,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "The MUSDB18 corpus for music separation GitHub",
+          "title": "sigsep/website",
+          "description": "The MUSDB18 corpus for music separation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -485,8 +485,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Automatic drum transcription for polyphonic recordings using soft attention mechanisms and convolutional neural networks GitHub",
+          "title": "CarlSouthall/ADTLib",
+          "description": "Automatic drum transcription for polyphonic recordings using soft attention mechanisms and convolutional neural networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,8 +500,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Taking the models back to music practice: Evaluating generative transcription models built using deep learning GitHub",
+          "title": "IraKorshunova/folk-rnn",
+          "description": "Taking the models back to music practice: Evaluating generative transcription models built using deep learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,8 +515,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Invariances and data augmentation for supervised music transcription GitHub",
+          "title": "jthickstun/thickstun2018invariances",
+          "description": "Invariances and data augmentation for supervised music transcription",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,8 +530,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Lyrics-based music genre classification using a hierarchical attention network GitHub",
+          "title": "alexTsaptsinos/lyricsHAN",
+          "description": "Lyrics-based music genre classification using a hierarchical attention network",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -545,8 +545,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "A hybrid DSP/deep learning approach to real-time full-band speech enhancement GitHub",
+          "title": "xiph/rnnoise",
+          "description": "A hybrid DSP/deep learning approach to real-time full-band speech enhancement",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -555,13 +555,13 @@
             "last_commit": "2025-02-22T23:58:31Z",
             "owner": "xiph",
             "repo": "rnnoise",
-            "stars": 5798
+            "stars": 5800
           }
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "Surrey-CVSSP system for DCASE2017 challenge task4 GitHub",
+          "title": "yongxuUSTC/dcase2017_task4_cvssp",
+          "description": "Surrey-CVSSP system for DCASE2017 challenge task4",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,8 +575,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "MuseGAN: Multi-track sequential generative adversarial networks for symbolic music generation and accompaniment GitHub",
+          "title": "salu133445/musegan",
+          "description": "MuseGAN: Multi-track sequential generative adversarial networks for symbolic music generation and accompaniment",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -590,8 +590,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "Enabling factorized piano music modeling and generation with the MAESTRO dataset GitHub",
+          "title": "magenta/magenta",
+          "description": "Enabling factorized piano music modeling and generation with the MAESTRO dataset",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -605,8 +605,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "Generating Long Sequences with Sparse Transformers GitHub",
+          "title": "openai/sparse_attention",
+          "description": "Generating Long Sequences with Sparse Transformers",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -620,8 +620,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "DadaGP: a Dataset of Tokenized GuitarPro Songs for Sequence Models GitHub",
+          "title": "dada-bots/dadaGP",
+          "description": "DadaGP: a Dataset of Tokenized GuitarPro Songs for Sequence Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -821,10 +821,10 @@
                 "archived": false,
                 "id": 21289110,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:42:58Z",
+                "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315806
+                "stars": 315914
               }
             },
             {
@@ -854,7 +854,7 @@
                 "last_commit": "2026-05-27T20:46:02Z",
                 "owner": "noteflakes",
                 "repo": "awesome-music",
-                "stars": 2480
+                "stars": 2481
               }
             },
             {
@@ -963,10 +963,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-23T23:52:17Z",
+                "last_commit": "2026-08-24T19:56:43Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78584
+                "stars": 78603
               }
             },
             {
@@ -1003,7 +1003,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499527
+                "stars": 499694
               }
             },
             {
@@ -1018,7 +1018,7 @@
                 "last_commit": "2023-10-15T06:05:06Z",
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 32516
+                "stars": 32519
               }
             },
             {
@@ -1033,7 +1033,7 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28804
+                "stars": 28807
               }
             },
             {
@@ -1048,7 +1048,7 @@
                 "last_commit": "2019-10-19T12:33:06Z",
                 "owner": "kailashahirwar",
                 "repo": "cheatsheets-ai",
-                "stars": 15428
+                "stars": 15427
               }
             },
             {
@@ -1164,7 +1164,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28804
+            "stars": 28807
           }
         }
       ],
@@ -1208,7 +1208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:21:29.540Z",
+    "last_updated": "2026-08-25T05:55:35.409Z",
     "original_repository": "ybayle/awesome-deep-learning-music",
     "original_repository_id": 100402731,
     "original_repository_sha": "2059f5f72c05f0cc9c522503772011c17c62acaf",
