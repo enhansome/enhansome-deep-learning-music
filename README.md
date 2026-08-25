@@ -233,7 +233,7 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 
 * [Deep learning driven jazz generation using Keras & Theano](https://github.com/jisungk/deepjazz) ⭐ 2,890 | 🐛 13 | 🌐 Python | 📅 2026-03-19
 * [Finding the genre of a song with Deep Learning](https://github.com/despoisj/DeepAudioClassification) ⭐ 1,114 | 🐛 22 | 🌐 Python | 📅 2021-07-26
-* [Separating singing voice from music based on deep neural networks in Tensorflow](https://github.com/andabi/music-source-separation) ⭐ 798 | 🐛 44 | 🌐 Python | 📅 2019-03-18
+* [Separating singing voice from music based on deep neural networks in Tensorflow](https://github.com/andabi/music-source-separation) ⭐ 799 | 🐛 44 | 🌐 Python | 📅 2019-03-18
 * [Music Genre Classification with LSTMs](https://github.com/ruohoruotsi/LSTM-Music-Genre-Classification) ⭐ 305 | 🐛 3 | 🌐 Python | 📅 2021-09-04
 * [Music Genre classification on GTZAN dataset using CNNs](https://github.com/Hguimaraes/gtzan.keras) ⚠️ Archived
 * [Audio Classifier in Keras using Convolutional Neural Network](https://github.com/drscotthawley/audio-classifier-keras-cnn) ⭐ 159 | 🐛 0 | 🌐 Python | 📅 2019-05-06
@@ -327,7 +327,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Audio
 
-* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 315,914 | 🐛 15 | 🌐 Python | 📅 2026-08-25 - Audio section of Python resources
+* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 315,990 | 🐛 15 | 🌐 Python | 📅 2026-08-25 - Audio section of Python resources
 * [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,650 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
 * [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,481 | 🐛 26 | 📅 2026-05-27 - Music softwares
 * [Awesome Python Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,707 | 🐛 35 | 📅 2026-06-11 - Python resources for Audio and Machine Learning
@@ -352,7 +352,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Music datasets
 
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,603 | 🐛 159 | 📅 2026-08-24
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,624 | 🐛 159 | 📅 2026-08-25
 * [Awesome music listening](https://github.com/ybayle/awesome-music-listening) ⭐ 161 | 🐛 3 | 📅 2025-10-14
 * [AudioContentAnalysis nearly exhaustive list of music-related datasets](http://www.audiocontentanalysis.org/data-sets/)
 * [Teaching MIR](https://teachingmir.wikispaces.com/Datasets)
@@ -363,9 +363,9 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Deep learning
 
-* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,694 | 🐛 106 | 📅 2026-08-21 lists
-* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,519 | 🐛 77 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,807 | 🐛 84 | 📅 2025-05-26 - General deep learning resources
+* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,830 | 🐛 106 | 📅 2026-08-21 lists
+* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,522 | 🐛 77 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,808 | 🐛 84 | 📅 2025-05-26 - General deep learning resources
 * [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,427 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
 * [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,120 | 🐛 83 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
 * [Awesome RNNs](https://github.com/kjw0612/awesome-rnn) ⭐ 6,209 | 🐛 4 | 📅 2022-02-03 - RNNs code, theory and applications
@@ -396,7 +396,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 If you use the information contained in this repository, please let us know! This repository is cited by:
 
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,807 | 🐛 84 | 📅 2025-05-26
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,808 | 🐛 84 | 📅 2025-05-26
 * [Alexander Schindler](https://twitter.com/Slychief/status/915218386421997568)
 * [Meinard Müller, Christof Weiss, Stefan Balke](https://www.audiolabs-erlangen.de/resources/MIR/2017-GI-Tutorial-Musik/2017_MuellerWeissBalke_GI_DeepLearningMIR.pdf)
 * [WWW 2018 Challenge: Learning to Recognize Musical Genre](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre)

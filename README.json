@@ -681,7 +681,7 @@
             "last_commit": "2019-03-18T11:50:02Z",
             "owner": "andabi",
             "repo": "music-source-separation",
-            "stars": 798
+            "stars": 799
           }
         },
         {
@@ -824,7 +824,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315914
+                "stars": 315990
               }
             },
             {
@@ -963,10 +963,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-24T19:56:43Z",
+                "last_commit": "2026-08-25T15:18:19Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78603
+                "stars": 78624
               }
             },
             {
@@ -1003,7 +1003,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499694
+                "stars": 499830
               }
             },
             {
@@ -1018,7 +1018,7 @@
                 "last_commit": "2023-10-15T06:05:06Z",
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 32519
+                "stars": 32522
               }
             },
             {
@@ -1033,7 +1033,7 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28807
+                "stars": 28808
               }
             },
             {
@@ -1164,7 +1164,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28807
+            "stars": 28808
           }
         }
       ],
@@ -1208,7 +1208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:35.409Z",
+    "last_updated": "2026-08-25T15:26:44.573Z",
     "original_repository": "ybayle/awesome-deep-learning-music",
     "original_repository_id": 100402731,
     "original_repository_sha": "2059f5f72c05f0cc9c522503772011c17c62acaf",
