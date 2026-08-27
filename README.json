@@ -555,7 +555,7 @@
             "last_commit": "2025-02-22T23:58:31Z",
             "owner": "xiph",
             "repo": "rnnoise",
-            "stars": 5801
+            "stars": 5803
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19808
+            "stars": 19807
           }
         },
         {
@@ -824,7 +824,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316379
+                "stars": 316515
               }
             },
             {
@@ -963,10 +963,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-26T21:15:40Z",
+                "last_commit": "2026-08-27T22:41:18Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78669
+                "stars": 78677
               }
             },
             {
@@ -1003,7 +1003,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500361
+                "stars": 500537
               }
             },
             {
@@ -1018,7 +1018,7 @@
                 "last_commit": "2023-10-15T06:05:06Z",
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 32530
+                "stars": 32532
               }
             },
             {
@@ -1033,7 +1033,7 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28814
+                "stars": 28820
               }
             },
             {
@@ -1078,7 +1078,7 @@
                 "last_commit": "2022-02-03T05:56:39Z",
                 "owner": "kjw0612",
                 "repo": "awesome-rnn",
-                "stars": 6210
+                "stars": 6211
               }
             },
             {
@@ -1164,7 +1164,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28814
+            "stars": 28820
           }
         }
       ],
@@ -1208,7 +1208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:23.718Z",
+    "last_updated": "2026-08-27T23:58:26.047Z",
     "original_repository_info": {
       "archived": false,
       "id": 100402731,
