@@ -1,4 +1,4 @@
-⚠️ This repo is unmaintained. While the info are still relevant, contributions to keep it up to date are welcome! A good starting point are the articles referenced here: <https://github.com/ybayle/awesome-deep-learning-music/issues/5> ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+⚠️ This repo is unmaintained. While the info are still relevant, contributions to keep it up to date are welcome! A good starting point are the articles referenced here: <https://github.com/ybayle/awesome-deep-learning-music/issues/5> ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 <img align="right" src="fig/logo.png">
 
@@ -202,7 +202,7 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2019  | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [GitHub](https://github.com/openai/sparse_attention) ⚠️ Archived                                                         |
 | 2021  | [DadaGP: a Dataset of Tokenized GuitarPro Songs for Sequence Models](https://archives.ismir.net/ismir2021/paper/000076.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | [GitHub](https://github.com/dada-bots/dadaGP) ⭐ 169 \| 🐛 5 \| 🌐 Python \| 📅 2022-01-23                                |
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## DL4M details
 
@@ -227,7 +227,7 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 * `note` - Additional notes and information
 * `repro` - Indication to what extent the experiments are reproducible
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Code without articles
 
@@ -244,7 +244,7 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 * [CNN based Music Emotion Classification using TensorFlow](https://github.com/rickiepark/cnn_mer) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-11-06
 * [Pitch Estimation of Choir Music using Deep Learning Strategies: from Solo to Unison Recordings](https://github.com/helenacuesta/choir-pitch-estimation)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Statistics and visualisations
 
@@ -268,7 +268,7 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 * Only 47 articles (28%) provide their source code.
   Repeatability is the key to good science, so check out the [list of useful resources on reproducibility for MIR and ML](reproducibility.md).
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Advices for reviewers of dl4m articles
 
@@ -279,7 +279,7 @@ Please refer to the [advice\_review.md](advice_review.md) file.
 Contributions are welcome!
 Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## FAQ
 
@@ -295,19 +295,19 @@ I want to have exhaustive research and the latest news on DL4M. However, one sho
 
 The list provided here does not guarantee the quality of the articles. You should either try to reproduce the experiments described or submit a request to [ReScience](https://github.com/ReScience/ReScience) ⭐ 707 | 🐛 49 | 📅 2022-07-25. Use one article's conclusion at your own risks.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Acronyms used
 
 A list of useful acronyms used in deep learning and music is stored in [acronyms.md](acronyms.md).
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Sources
 
 The list of conferences, journals and aggregators used to gather the proposed materials is stored in [sources.md](sources.md).
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Contributors
 
@@ -321,13 +321,13 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 * [Devin Walters](https://github.com/devn)
 * <https://github.com/LegendJ>
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Other useful related lists and resources
 
 #### Audio
 
-* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 316,771 | 🐛 18 | 🌐 Python | 📅 2026-08-25 - Audio section of Python resources
+* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 316,806 | 🐛 19 | 🌐 Python | 📅 2026-08-25 - Audio section of Python resources
 * [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,654 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
 * [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,483 | 🐛 26 | 📅 2026-05-27 - Music softwares
 * [Awesome Python Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,707 | 🐛 35 | 📅 2026-06-11 - Python resources for Audio and Machine Learning
@@ -348,26 +348,26 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 * [Auditory Scene Analysis](https://mitpress.mit.edu/books/auditory-scene-analysis) - Book about the perceptual organization of sound by [Albert Bregman](https://en.wikipedia.org/wiki/Albert_Bregman), the "father of [Auditory Scene Analysis](https://en.wikipedia.org/wiki/Auditory_scene_analysis)".
   * [Demonstrations of Auditory Scene Analysis](http://webpages.mcgill.ca/staff/Group2/abregm1/web/downloadstoc.htm) - Audio demonstrations, which illustrate examples of auditory perceptual organization.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 #### Music datasets
 
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,693 | 🐛 159 | 📅 2026-08-28
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,694 | 🐛 159 | 📅 2026-08-28
 * [Awesome music listening](https://github.com/ybayle/awesome-music-listening) ⭐ 161 | 🐛 3 | 📅 2025-10-14
 * [AudioContentAnalysis nearly exhaustive list of music-related datasets](http://www.audiocontentanalysis.org/data-sets/)
 * [Teaching MIR](https://teachingmir.wikispaces.com/Datasets)
 * [Wikipedia's list of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research#cite_ref-215)
 * [Datasets for deep learning](http://deeplearning.net/datasets/)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 #### Deep learning
 
-* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,851 | 🐛 105 | 📅 2026-08-21 lists
-* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,542 | 🐛 77 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,827 | 🐛 84 | 📅 2025-05-26 - General deep learning resources
-* [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,428 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
-* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,121 | 🐛 84 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
+* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21 lists
+* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,544 | 🐛 77 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,829 | 🐛 84 | 📅 2025-05-26 - General deep learning resources
+* [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,429 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
+* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,122 | 🐛 84 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
 * [Awesome RNNs](https://github.com/kjw0612/awesome-rnn) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03 - RNNs code, theory and applications
 * [DL PaperNotes](https://github.com/dennybritz/deeplearning-papernotes) ⭐ 4,421 | 🐛 6 | 📅 2018-02-13 - Summaries and notes on general deep learning research papers
 * [Model Convertors](https://github.com/ysh329/deep-learning-model-convertor) ⭐ 3,236 | 🐛 2 | 📅 2023-06-26 - Convertors for DL frameworks and backend
@@ -390,19 +390,19 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 * [Battle of the Deep Learning frameworks](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750) - DL frameworks comparison and evolution
 * [Black-box optimization](http://timvieira.github.io/blog/post/2018/03/16/black-box-optimization/) - There are other optimization algorithms than just gradient descent
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Cited by
 
 If you use the information contained in this repository, please let us know! This repository is cited by:
 
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,827 | 🐛 84 | 📅 2025-05-26
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,829 | 🐛 84 | 📅 2025-05-26
 * [Alexander Schindler](https://twitter.com/Slychief/status/915218386421997568)
 * [Meinard Müller, Christof Weiss, Stefan Balke](https://www.audiolabs-erlangen.de/resources/MIR/2017-GI-Tutorial-Musik/2017_MuellerWeissBalke_GI_DeepLearningMIR.pdf)
 * [WWW 2018 Challenge: Learning to Recognize Musical Genre](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre)
 * [AINewsFeed](https://twitter.com/AINewsFeed/status/897832912351105025)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## License
 
@@ -415,8 +415,8 @@ This project use another projects and you may refer to them for appropriate lice
 * [Numpy](http://www.numpy.org/) - To manage python structure.
 * [Matplotlib](https://matplotlib.org/) - To plot nice figures.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,984 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,985 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

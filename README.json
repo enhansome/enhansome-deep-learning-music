@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auralisation of learned features in CNN (for audio)",
+            "homepage": null,
             "id": 47410461,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-03-11T14:53:29Z",
+            "open_issues": 0,
             "owner": "keunwoochoi",
             "repo": "Auralisation",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 25960141,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-11-19T15:58:25Z",
+            "open_issues": 2,
             "owner": "coreyker",
             "repo": "dnn-mgr",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CNN-based singing voice detection experiments",
+            "homepage": null,
             "id": 98100129,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-04-25T09:36:24Z",
+            "open_issues": 0,
             "owner": "f0k",
             "repo": "ismir2015",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "folk music modelling with LSTM",
+            "homepage": null,
             "id": 43695861,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-13T17:31:28Z",
+            "open_issues": 5,
             "owner": "IraKorshunova",
             "repo": "folk-rnn",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code accompanying \"DeepBach: a Steerable Model for Bach Chorales Generation\" paper",
+            "homepage": null,
             "id": 74135964,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-17T09:49:52Z",
+            "open_issues": 22,
             "owner": "Ghadjeres",
             "repo": "DeepBach",
-            "stars": 519
+            "stars": 519,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -90,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 63936037,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-08-09T22:31:00Z",
+            "open_issues": 0,
             "owner": "fdlm",
             "repo": "chordrec",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -106,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for \"Event localization in music auto-tagging\"",
+            "homepage": null,
             "id": 65360443,
             "language": "Python",
+            "license": "ISC",
             "last_commit": "2017-03-15T08:50:32Z",
+            "open_issues": 3,
             "owner": "ciaua",
             "repo": "clip2frame",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -122,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Convolutional Networks on the Pitch Spiral for Musical Instrument Recognition",
+            "homepage": null,
             "id": 48038932,
             "language": "OpenEdge ABL",
+            "license": null,
             "last_commit": "2016-06-15T09:27:50Z",
+            "open_issues": 1,
             "owner": "lostanlen",
             "repo": "ismir2016",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -138,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Convolutional Networks on the Pitch Spiral for Musical Instrument Recognition",
+            "homepage": null,
             "id": 48038932,
             "language": "OpenEdge ABL",
+            "license": null,
             "last_commit": "2016-06-15T09:27:50Z",
+            "open_issues": 1,
             "owner": "lostanlen",
             "repo": "ismir2016",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -154,12 +199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SampleRNN: An Unconditional End-to-End Neural Audio Generation Model",
+            "homepage": "https://arxiv.org/abs/1612.07837",
             "id": 75435509,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-11-12T20:50:40Z",
+            "open_issues": 12,
             "owner": "soroushmehr",
             "repo": "sampleRNN_ICLR2017",
-            "stars": 543
+            "stars": 543,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -170,12 +220,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "folk music modelling with LSTM",
+            "homepage": null,
             "id": 43695861,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-13T17:31:28Z",
+            "open_issues": 5,
             "owner": "IraKorshunova",
             "repo": "folk-rnn",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -186,12 +241,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 103909444,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-11-19T10:05:28Z",
+            "open_issues": 3,
             "owner": "brunnergino",
             "repo": "JamBot",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "chord-embeddings",
+              "chord-model",
+              "circle-of-fifths",
+              "deep-learning",
+              "jambot",
+              "lstm",
+              "midi",
+              "music-generation",
+              "neural-network"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -202,12 +272,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Convolutional Neural Networks for Musical Source Separation ",
+            "homepage": null,
             "id": 74496817,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2020-01-31T13:45:23Z",
+            "open_issues": 3,
             "owner": "MTG",
             "repo": "DeepConvSep",
-            "stars": 484
+            "stars": 484,
+            "topics": [
+              "audio-synthesis",
+              "convolutional-neural-networks",
+              "data-augmentation",
+              "data-generation",
+              "deep-learning",
+              "sample-querying",
+              "score-synthesis",
+              "signal-processing",
+              "source-separation",
+              "theano"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -218,12 +304,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning for MIR",
+            "homepage": null,
             "id": 91383872,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-10-08T00:25:18Z",
+            "open_issues": 0,
             "owner": "keunwoochoi",
             "repo": "dl4mir",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "deep-learning",
+              "mir"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -234,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transfer learning for music classification and regression tasks",
+            "homepage": null,
             "id": 85327521,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-12-11T23:31:24Z",
+            "open_issues": 5,
             "owner": "keunwoochoi",
             "repo": "transfer_learning_music",
-            "stars": 260
+            "stars": 260,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -250,12 +349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transfer learning for music classification and regression tasks",
+            "homepage": null,
             "id": 85327521,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-12-11T23:31:24Z",
+            "open_issues": 5,
             "owner": "keunwoochoi",
             "repo": "transfer_learning_music",
-            "stars": 260
+            "stars": 260,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -266,12 +370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 71842105,
             "language": null,
+            "license": null,
             "last_commit": "2017-03-09T18:09:32Z",
+            "open_issues": 0,
             "owner": "keunwoochoi",
             "repo": "icassp_2017",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -282,12 +391,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper: Audio to Score Matching by Combining Phonetic and Duration Information",
+            "homepage": "https://arxiv.org/abs/1707.03547",
             "id": 77299109,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2017-07-09T17:31:29Z",
+            "open_issues": 1,
             "owner": "ronggong",
             "repo": "jingjuSingingPhraseMatching",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "acoustic-model",
+              "cnn-model",
+              "hsmm",
+              "phoneme",
+              "score",
+              "singing-phrase"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -298,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Chainer implementation of U-Net singing voice separation model",
+            "homepage": null,
             "id": 111690978,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-11-28T11:39:03Z",
+            "open_issues": 3,
             "owner": "Xiao-Ming",
             "repo": "UNet-VocalSeparation-Chainer",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -314,12 +440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 101266083,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-08-24T07:33:49Z",
+            "open_issues": 0,
             "owner": "jongpillee",
             "repo": "musicTagging_MSD",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -330,12 +461,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of a paper \"Polyphonic Music Generation with Sequence Generative Adversarial Networks\" in TensorFlow",
+            "homepage": null,
             "id": 141379935,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-06T06:06:51Z",
+            "open_issues": 0,
             "owner": "L0SG",
             "repo": "seqgan-music",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "deep-learning",
+              "generative-adversarial-network",
+              "music-generation",
+              "polyphonic",
+              "seqgan",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -346,12 +489,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Singing Voice Separation via Recurrent Inference and Skip-Filtering Connections - PyTorch Implementation.  Demo:",
+            "homepage": "https://js-mim.github.io/mss_pytorch/",
             "id": 101736889,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-11-02T10:20:17Z",
+            "open_issues": 0,
             "owner": "Js-Mim",
             "repo": "mss_pytorch",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "deep-learning",
+              "mss-pytorch",
+              "music-source-separation",
+              "pytorch",
+              "recurrent-neural-networks",
+              "skip-filtering-connections"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -362,12 +517,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Convolutional Neural Networks for Musical Source Separation ",
+            "homepage": null,
             "id": 74496817,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2020-01-31T13:45:23Z",
+            "open_issues": 3,
             "owner": "MTG",
             "repo": "DeepConvSep",
-            "stars": 484
+            "stars": 484,
+            "topics": [
+              "audio-synthesis",
+              "convolutional-neural-networks",
+              "data-augmentation",
+              "data-generation",
+              "deep-learning",
+              "sample-querying",
+              "score-synthesis",
+              "signal-processing",
+              "source-separation",
+              "theano"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -378,12 +549,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Convolutional Neural Networks for Musical Source Separation ",
+            "homepage": null,
             "id": 74496817,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2020-01-31T13:45:23Z",
+            "open_issues": 3,
             "owner": "MTG",
             "repo": "DeepConvSep",
-            "stars": 484
+            "stars": 484,
+            "topics": [
+              "audio-synthesis",
+              "convolutional-neural-networks",
+              "data-augmentation",
+              "data-generation",
+              "deep-learning",
+              "sample-querying",
+              "score-synthesis",
+              "signal-processing",
+              "source-separation",
+              "theano"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -394,12 +581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning for audio and text",
+            "homepage": null,
             "id": 82857759,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-08T02:03:19Z",
+            "open_issues": 7,
             "owner": "sergiooramas",
             "repo": "tartarus",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -410,12 +602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning for audio and text",
+            "homepage": null,
             "id": 82857759,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-08T02:03:19Z",
+            "open_issues": 7,
             "owner": "sergiooramas",
             "repo": "tartarus",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -426,12 +623,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper: Score-informed Syllable Segmentation for A Cappella Singing Voice with Convolutional Neural Networks",
+            "homepage": "https://arxiv.org/pdf/1707.03544.pdf",
             "id": 49277987,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-03-31T15:55:22Z",
+            "open_issues": 0,
             "owner": "ronggong",
             "repo": "jingjuSyllabicSegmentaion",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "cnn-model",
+              "onset-detection",
+              "singing",
+              "syllable",
+              "viterbi-algorithm"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -442,12 +650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow implementation of the models used in \"End-to-end learning for music audio tagging at scale\"",
+            "homepage": null,
             "id": 107429988,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-09-30T06:11:10Z",
+            "open_issues": 1,
             "owner": "jordipons",
             "repo": "music-audio-tagging-at-scale-models",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -458,12 +671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Designing efficient architectures for modeling temporal features with convolutional neural networks",
+            "homepage": null,
             "id": 71222089,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-03-17T15:56:27Z",
+            "open_issues": 0,
             "owner": "jordipons",
             "repo": "ICASSP2017",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -474,12 +692,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The phoneme classification code for EUSIPCO 2017 paper: Timbre Analysis of Music Audio Signals with Convolutional Neural Networks",
+            "homepage": "https://arxiv.org/pdf/1703.06697.pdf",
             "id": 83555619,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2017-03-01T19:19:33Z",
+            "open_issues": 0,
             "owner": "ronggong",
             "repo": "EUSIPCO2017",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "classification",
+              "convolutional-neural-networks",
+              "eusipco",
+              "gmm",
+              "phoneme"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -490,12 +719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Music auto-tagging experiments for the paper entitled \"Timbre Analysis of Music Audio Signals with Convolutional Neural Networks\". ",
+            "homepage": null,
             "id": 85318331,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-03-20T12:19:14Z",
+            "open_issues": 0,
             "owner": "jordipons",
             "repo": "EUSIPCO2017",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -506,12 +740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://sigsep.github.io/",
             "id": 133551132,
             "language": "Vue",
+            "license": null,
             "last_commit": "2025-03-31T18:57:19Z",
+            "open_issues": 17,
             "owner": "sigsep",
             "repo": "website",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -522,12 +761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Drum Transcription Library",
+            "homepage": null,
             "id": 64669212,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-04-06T18:10:15Z",
+            "open_issues": 5,
             "owner": "CarlSouthall",
             "repo": "ADTLib",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -538,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "folk music modelling with LSTM",
+            "homepage": null,
             "id": 43695861,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-13T17:31:28Z",
+            "open_issues": 5,
             "owner": "IraKorshunova",
             "repo": "folk-rnn",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -554,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiments for Invariances and Data Augmentation for Supervised Music Transcription",
+            "homepage": null,
             "id": 110591738,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-02-24T19:43:40Z",
+            "open_issues": 0,
             "owner": "jthickstun",
             "repo": "thickstun2018invariances",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -570,12 +824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Music Genre Classification by Lyrics using a Hierarchical Attention Network",
+            "homepage": null,
             "id": 85510661,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-12-20T13:40:28Z",
+            "open_issues": 1,
             "owner": "alexTsaptsinos",
             "repo": "lyricsHAN",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -586,12 +845,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recurrent neural network for audio noise reduction",
+            "homepage": null,
             "id": 99199151,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-02-22T23:58:31Z",
+            "open_issues": 205,
             "owner": "xiph",
             "repo": "rnnoise",
-            "stars": 5808
+            "stars": 5808,
+            "topics": [
+              "audio",
+              "c",
+              "noise-reduction",
+              "rnn"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -602,12 +871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 514617163,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-22T04:30:45Z",
+            "open_issues": 0,
             "owner": "yongxuUSTC",
             "repo": "dcase2017_task4_cvssp",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -618,12 +892,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI for Music Generation",
+            "homepage": "https://salu133445.github.io/musegan/",
             "id": 103350832,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-07T10:22:36Z",
+            "open_issues": 21,
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2037
+            "stars": 2037,
+            "topics": [
+              "gan",
+              "generative-adversarial-network",
+              "machine-learning",
+              "music",
+              "music-generation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -634,12 +920,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Magenta: Music and Art Generation with Machine Intelligence",
+            "homepage": null,
             "id": 58157629,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-06T01:17:54Z",
+            "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19807
+            "stars": 19807,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -650,12 +941,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Examples of using sparse attention, as in \"Generating Long Sequences with Sparse Transformers\"",
+            "homepage": null,
             "id": 181010062,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-12T16:54:02Z",
+            "open_issues": 12,
             "owner": "openai",
             "repo": "sparse_attention",
-            "stars": 1613
+            "stars": 1613,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -666,12 +962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encoder/decoder converts GuitarPro songs to/from a token-sequence format for generative language models like GPT2, TransformerXL, etc. ",
+            "homepage": null,
             "id": 314425759,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-23T19:35:07Z",
+            "open_issues": 5,
             "owner": "dada-bots",
             "repo": "dadaGP",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         }
@@ -688,12 +989,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning driven jazz generation using Keras & Theano!",
+            "homepage": "http://deepjazz.io",
             "id": 55271222,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-19T03:10:31Z",
+            "open_issues": 13,
             "owner": "jisungk",
             "repo": "deepjazz",
-            "stars": 2891
+            "stars": 2891,
+            "topics": [
+              "deep-learning",
+              "jazz",
+              "keras",
+              "lstm",
+              "machine-learning",
+              "music",
+              "neural-networks",
+              "rnn",
+              "theano"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -704,12 +1020,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Finding the genre of a song with Deep Learning",
+            "homepage": "https://medium.com/@juliendespois/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194#.yhemoyql0",
             "id": 74884875,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-26T19:31:50Z",
+            "open_issues": 22,
             "owner": "despoisj",
             "repo": "DeepAudioClassification",
-            "stars": 1114
+            "stars": 1114,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "machine-learning",
+              "music",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -720,12 +1047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep neural networks for separating singing voice from music written in TensorFlow",
+            "homepage": null,
             "id": 95279435,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-03-18T11:50:02Z",
+            "open_issues": 44,
             "owner": "andabi",
             "repo": "music-source-separation",
-            "stars": 799
+            "stars": 799,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -736,12 +1068,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Music genre classification with LSTM Recurrent Neural Nets in Keras & PyTorch",
+            "homepage": null,
             "id": 69481198,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-04T01:17:03Z",
+            "open_issues": 3,
             "owner": "ruohoruotsi",
             "repo": "LSTM-Music-Genre-Classification",
-            "stars": 305
+            "stars": 305,
+            "topics": [
+              "audio-features-extracted",
+              "classification",
+              "genre",
+              "gtzan-dataset",
+              "keras",
+              "lstm",
+              "music",
+              "music-genre-classification",
+              "python3",
+              "pytorch",
+              "rnn"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -752,12 +1101,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[REPO] Music Genre classification on GTZAN dataset using CNNs",
+            "homepage": null,
             "id": 88382582,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-25T00:32:31Z",
+            "open_issues": 6,
             "owner": "Hguimaraes",
             "repo": "gtzan.keras",
-            "stars": 207
+            "stars": 207,
+            "topics": [
+              "cnn",
+              "keras",
+              "mir",
+              "music-genre-classification",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -768,12 +1128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audio Classifier in Keras using Convolutional Neural Network",
+            "homepage": null,
             "id": 83735072,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-05-06T16:14:57Z",
+            "open_issues": 0,
             "owner": "drscotthawley",
             "repo": "audio-classifier-keras-cnn",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -784,12 +1149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow implementation of the models used in \"End-to-end learning for music audio tagging at scale\"",
+            "homepage": null,
             "id": 107429988,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-09-30T06:11:10Z",
+            "open_issues": 1,
             "owner": "jordipons",
             "repo": "music-audio-tagging-at-scale-models",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -800,12 +1170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Felix's project for composing music using neural nets.",
+            "homepage": null,
             "id": 34422973,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-01-11T17:46:32Z",
+            "open_issues": 5,
             "owner": "fephsun",
             "repo": "neuralnetmusic",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -816,12 +1191,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Music genre classification model using CRNN",
+            "homepage": null,
             "id": 106579169,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-09-27T11:11:34Z",
+            "open_issues": 0,
             "owner": "kristijanbartol",
             "repo": "Deep-Music-Tagger",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "audio-analysis",
+              "convolutional-networks",
+              "deep-learning",
+              "deep-neural-networks",
+              "deeplearning",
+              "fma",
+              "keras",
+              "librosa",
+              "mel-spectrograms",
+              "music",
+              "music-analysis",
+              "music-classification",
+              "music-information-retrieval",
+              "recurrent-networks"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -832,12 +1227,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 337851021,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-02-10T20:54:25Z",
+            "open_issues": 0,
             "owner": "djosix",
             "repo": "Performance-RNN-PyTorch",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -848,12 +1248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 100798252,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2017-11-06T08:42:50Z",
+            "open_issues": 0,
             "owner": "rickiepark",
             "repo": "cnn_mer",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         }
@@ -872,12 +1277,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                "homepage": "https://awesome-python.com/",
                 "id": 21289110,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T04:08:40Z",
+                "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316771
+                "stars": 316806,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "python",
+                  "python-frameworks",
+                  "python-libraries",
+                  "python-tools"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -888,12 +1305,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FMA: A Dataset For Music Analysis",
+                "homepage": "https://arxiv.org/abs/1612.01840",
                 "id": 75407467,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-01-05T15:15:38Z",
+                "open_issues": 15,
                 "owner": "mdeff",
                 "repo": "fma",
-                "stars": 2654
+                "stars": 2654,
+                "topics": [
+                  "dataset",
+                  "deep-learning",
+                  "music-analysis",
+                  "music-information-retrieval",
+                  "open-data",
+                  "open-science",
+                  "reproducible-research"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -904,12 +1334,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Music Projects",
+                "homepage": null,
                 "id": 47076519,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-27T20:46:02Z",
+                "open_issues": 26,
                 "owner": "noteflakes",
                 "repo": "awesome-music",
-                "stars": 2483
+                "stars": 2483,
+                "topics": [
+                  "audio",
+                  "awesome",
+                  "awesome-list",
+                  "free-music-scores",
+                  "lilypond",
+                  "list",
+                  "midi",
+                  "music-notation",
+                  "music-programming",
+                  "music-scores",
+                  "sheet-music"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -920,12 +1367,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Curated list of python software and packages related to scientific research in audio",
+                "homepage": null,
                 "id": 74242520,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-11T16:45:13Z",
+                "open_issues": 35,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1707
+                "stars": 1707,
+                "topics": [
+                  "audio",
+                  "awesome-list",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -936,12 +1392,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of software, services, and resources to create and distribute music",
+                "homepage": null,
                 "id": 53864797,
                 "language": null,
+                "license": "ISC",
                 "last_commit": "2026-07-19T18:38:38Z",
+                "open_issues": 17,
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1483
+                "stars": 1483,
+                "topics": [
+                  "audio",
+                  "instrument",
+                  "midi",
+                  "midi-controller",
+                  "mpe",
+                  "music",
+                  "music-production",
+                  "sound",
+                  "synthesizer"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -952,12 +1423,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome WebAudio packages and resources.",
+                "homepage": null,
                 "id": 43116480,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-05T01:54:36Z",
+                "open_issues": 11,
                 "owner": "notthetup",
                 "repo": "awesome-webaudio",
-                "stars": 1396
+                "stars": 1396,
+                "topics": [
+                  "audio",
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "midi",
+                  "webaudio"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -968,12 +1451,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resources on Music Generation with Deep Learning",
+                "homepage": null,
                 "id": 93723057,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-08-02T09:30:42Z",
+                "open_issues": 1,
                 "owner": "umbrellabeach",
                 "repo": "music-generation-with-DL",
-                "stars": 729
+                "stars": 729,
+                "topics": [
+                  "deep-learning",
+                  "gan",
+                  "music-composition",
+                  "music-generation"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -984,12 +1477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning on Music Information Retrieval Tutorial",
+                "homepage": null,
                 "id": 99912407,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-10-04T14:42:00Z",
+                "open_issues": 0,
                 "owner": "tuwien-musicir",
                 "repo": "DL_MIR_Tutorial",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1000,12 +1498,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 47899099,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-02-09T14:56:52Z",
+                "open_issues": 1,
                 "owner": "marl",
                 "repo": "dl4mir-tutorial",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             }
@@ -1023,12 +1526,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A topic-centric list of HQ open datasets.",
+                "homepage": "https://awesomedataworld.slack.com",
                 "id": 26898879,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:22:22Z",
+                "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78693
+                "stars": 78694,
+                "topics": [
+                  "aaron-swartz",
+                  "awesome-public-datasets",
+                  "datasets",
+                  "opendata"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1039,12 +1552,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome list of websites dedicated to listening to music",
+                "homepage": null,
                 "id": 117863865,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-14T15:27:58Z",
+                "open_issues": 3,
                 "owner": "ybayle",
                 "repo": "awesome-music-listening",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "awesome",
+                  "list",
+                  "listenings",
+                  "music",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             }
@@ -1062,12 +1586,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+                "homepage": null,
                 "id": 21737465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-21T12:39:13Z",
+                "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500851
+                "stars": 500890,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1078,12 +1613,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+                "homepage": null,
                 "id": 80990461,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-15T06:05:06Z",
+                "open_issues": 77,
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 32542
+                "stars": 32544,
+                "topics": [
+                  "data-mining",
+                  "data-science",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "genetic-algorithm",
+                  "machine-learning",
+                  "machine-learning-from-scratch"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1094,12 +1642,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+                "homepage": null,
                 "id": 28723659,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-26T12:28:00Z",
+                "open_issues": 84,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28827
+                "stars": 28829,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "deep-learning-tutorial",
+                  "deep-networks",
+                  "face-images",
+                  "machine-learning",
+                  "neural-network",
+                  "recurrent-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1110,12 +1673,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5",
+                "homepage": "https://aicheatsheets.com",
                 "id": 92287968,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-10-19T12:33:06Z",
+                "open_issues": 12,
                 "owner": "kailashahirwar",
                 "repo": "cheatsheets-ai",
-                "stars": 15428
+                "stars": 15429,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "keras",
+                  "machine-learning",
+                  "matplotlib",
+                  "numpy",
+                  "scipy"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1126,12 +1702,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                "homepage": "https://imbalanced-learn.org",
                 "id": 23011147,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-29T16:33:16Z",
+                "open_issues": 84,
                 "owner": "scikit-learn-contrib",
                 "repo": "imbalanced-learn",
-                "stars": 7121
+                "stars": 7122,
+                "topics": [
+                  "data-analysis",
+                  "data-science",
+                  "machine-learning",
+                  "python",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1142,12 +1729,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
+                "homepage": null,
                 "id": 37458410,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-02-03T05:56:39Z",
+                "open_issues": 4,
                 "owner": "kjw0612",
                 "repo": "awesome-rnn",
-                "stars": 6211
+                "stars": 6211,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1158,12 +1750,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Summaries and notes on Deep Learning research papers",
+                "homepage": null,
                 "id": 48293060,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-02-13T01:04:02Z",
+                "open_issues": 6,
                 "owner": "dennybritz",
                 "repo": "deeplearning-papernotes",
-                "stars": 4421
+                "stars": 4421,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1174,12 +1771,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
+                "homepage": "https://github.com/ysh329/deep-learning-model-convertor",
                 "id": 88418646,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-26T14:22:18Z",
+                "open_issues": 2,
                 "owner": "ysh329",
                 "repo": "deep-learning-model-convertor",
-                "stars": 3236
+                "stars": 3236,
+                "topics": [
+                  "awesome-list",
+                  "caffe",
+                  "caffe2",
+                  "convertor",
+                  "deep-learning",
+                  "deep-learning-framework",
+                  "keras",
+                  "model",
+                  "model-convertor",
+                  "mxnet",
+                  "neural-network",
+                  "pytorch",
+                  "tensorflow",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1190,12 +1807,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning and deep reinforcement learning research papers and some codes",
+                "homepage": null,
                 "id": 74940973,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-01-28T10:58:06Z",
+                "open_issues": 3,
                 "owner": "endymecy",
                 "repo": "awesome-deeplearning-resources",
-                "stars": 3024
+                "stars": 3024,
+                "topics": [
+                  "code",
+                  "corpus",
+                  "deep-learning",
+                  "modelzoo",
+                  "neural-network",
+                  "nlp",
+                  "paper",
+                  "reinforcement-learning",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             },
@@ -1206,12 +1838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning Architecture  Genealogy Project",
+                "homepage": "https://coggle.it/diagram/Wf5mYoJbsgABUF9P ",
                 "id": 109533627,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-14T04:24:09Z",
+                "open_issues": 6,
                 "owner": "hunkim",
                 "repo": "deep_architecture_genealogy",
-                "stars": 1220
+                "stars": 1220,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
             }
@@ -1233,12 +1870,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+            "homepage": null,
             "id": 28723659,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-26T12:28:00Z",
+            "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28827
+            "stars": 28829,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "deep-learning-tutorial",
+              "deep-networks",
+              "face-images",
+              "machine-learning",
+              "neural-network",
+              "recurrent-networks"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         }
@@ -1255,12 +1907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A checklist for writing READMEs",
+            "homepage": null,
             "id": 58968465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-12-12T20:32:14Z",
+            "open_issues": 3,
             "owner": "ddbeck",
             "repo": "readme-checklist",
-            "stars": 665
+            "stars": 665,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         },
@@ -1271,12 +1928,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bibtex parser for Python 3",
+            "homepage": "https://bibtexparser.readthedocs.io",
             "id": 7460583,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-12T12:18:57Z",
+            "open_issues": 57,
             "owner": "sciunto-org",
             "repo": "python-bibtexparser",
-            "stars": 570
+            "stars": 570,
+            "topics": [
+              "bibtex",
+              "bibtex-files",
+              "latex",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
         }
@@ -1285,15 +1952,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:40:25.876Z",
+    "last_updated": "2026-08-29T04:21:16.729Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of articles related to deep learning applied to music",
+      "homepage": null,
       "id": 100402731,
       "language": "TeX",
+      "license": "MIT",
       "last_commit": "2023-12-15T16:51:26Z",
+      "open_issues": 7,
       "owner": "ybayle",
       "repo": "awesome-deep-learning-music",
-      "stars": 2984
+      "stars": 2985,
+      "topics": [
+        "article",
+        "audio",
+        "audio-processing",
+        "awesome",
+        "awesome-list",
+        "bib",
+        "deep-learning",
+        "deep-neural-networks",
+        "deeplearning",
+        "list",
+        "lists",
+        "machine-learning",
+        "music",
+        "music-genre-classification",
+        "music-information-retrieval",
+        "neural-network",
+        "neural-networks",
+        "research",
+        "resources",
+        "unicorns"
+      ]
     },
     "original_repository_sha": "2059f5f72c05f0cc9c522503772011c17c62acaf",
     "enhanced_repository": "enhansome/enhansome-deep-learning-music",
