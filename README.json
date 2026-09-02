@@ -854,7 +854,7 @@
             "open_issues": 205,
             "owner": "xiph",
             "repo": "rnnoise",
-            "stars": 5816,
+            "stars": 5818,
             "topics": [
               "audio",
               "c",
@@ -929,7 +929,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19803,
+            "stars": 19801,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
@@ -1286,7 +1286,7 @@
                 "open_issues": 16,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 317685,
+                "stars": 318025,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1398,10 +1398,10 @@
                 "language": null,
                 "license": "ISC",
                 "last_commit": "2026-07-19T18:38:38Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1485,
+                "stars": 1486,
                 "topics": [
                   "audio",
                   "instrument",
@@ -1432,7 +1432,7 @@
                 "open_issues": 11,
                 "owner": "notthetup",
                 "repo": "awesome-webaudio",
-                "stars": 1396,
+                "stars": 1397,
                 "topics": [
                   "audio",
                   "awesome",
@@ -1531,11 +1531,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-01T16:35:44Z",
-                "open_issues": 159,
+                "last_commit": "2026-09-02T17:54:03Z",
+                "open_issues": 157,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78756,
+                "stars": 78770,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1561,7 +1561,7 @@
                 "open_issues": 4,
                 "owner": "ybayle",
                 "repo": "awesome-music-listening",
-                "stars": 162,
+                "stars": 163,
                 "topics": [
                   "awesome",
                   "list",
@@ -1591,11 +1591,11 @@
                 "id": 21737465,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-08-21T12:39:13Z",
+                "last_commit": "2026-09-02T02:10:47Z",
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 501982,
+                "stars": 502329,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1619,10 +1619,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-10-15T06:05:06Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 32557,
+                "stars": 32560,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -1651,7 +1651,7 @@
                 "open_issues": 84,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28849,
+                "stars": 28854,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1682,7 +1682,7 @@
                 "open_issues": 12,
                 "owner": "kailashahirwar",
                 "repo": "cheatsheets-ai",
-                "stars": 15427,
+                "stars": 15429,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1708,7 +1708,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-29T16:33:16Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "scikit-learn-contrib",
                 "repo": "imbalanced-learn",
                 "stars": 7124,
@@ -1738,7 +1738,7 @@
                 "open_issues": 4,
                 "owner": "kjw0612",
                 "repo": "awesome-rnn",
-                "stars": 6211,
+                "stars": 6210,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
@@ -1816,7 +1816,7 @@
                 "open_issues": 3,
                 "owner": "endymecy",
                 "repo": "awesome-deeplearning-resources",
-                "stars": 3025,
+                "stars": 3026,
                 "topics": [
                   "code",
                   "corpus",
@@ -1879,7 +1879,7 @@
             "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28849,
+            "stars": 28854,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1916,7 +1916,7 @@
             "open_issues": 3,
             "owner": "ddbeck",
             "repo": "readme-checklist",
-            "stars": 665,
+            "stars": 666,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
@@ -1937,7 +1937,7 @@
             "open_issues": 57,
             "owner": "sciunto-org",
             "repo": "python-bibtexparser",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "bibtex",
               "bibtex-files",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:56:45.413Z",
+    "last_updated": "2026-09-02T18:02:33.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of articles related to deep learning applied to music",
