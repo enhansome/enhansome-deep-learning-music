@@ -327,9 +327,9 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Audio
 
-* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 318,766 | 🐛 17 | 🌐 Python | 📅 2026-09-01 - Audio section of Python resources
-* [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,657 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
-* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,486 | 🐛 28 | 📅 2026-05-27 - Music softwares
+* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 319,073 | 🐛 19 | 🌐 Python | 📅 2026-09-01 - Audio section of Python resources
+* [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,658 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
+* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,487 | 🐛 28 | 📅 2026-05-27 - Music softwares
 * [Awesome Python Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,710 | 🐛 35 | 📅 2026-06-11 - Python resources for Audio and Machine Learning
 * [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,489 | 🐛 21 | 📅 2026-07-19 - Music creation
 * [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) ⭐ 1,397 | 🐛 13 | 📅 2026-06-05 - WebAudio packages and resources
@@ -352,7 +352,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Music datasets
 
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,827 | 🐛 158 | 📅 2026-09-03
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,845 | 🐛 158 | 📅 2026-09-03
 * [Awesome music listening](https://github.com/ybayle/awesome-music-listening) ⭐ 163 | 🐛 5 | 📅 2025-10-14
 * [AudioContentAnalysis nearly exhaustive list of music-related datasets](http://www.audiocontentanalysis.org/data-sets/)
 * [Teaching MIR](https://teachingmir.wikispaces.com/Datasets)
@@ -363,11 +363,11 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Deep learning
 
-* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,568 | 🐛 106 | 📅 2026-09-02 lists
-* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,712 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,868 | 🐛 85 | 📅 2025-05-26 - General deep learning resources
-* [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,431 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
-* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,122 | 🐛 85 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
+* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,930 | 🐛 106 | 📅 2026-09-02 lists
+* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,742 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,873 | 🐛 85 | 📅 2025-05-26 - General deep learning resources
+* [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,432 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
+* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,123 | 🐛 86 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
 * [Awesome RNNs](https://github.com/kjw0612/awesome-rnn) ⭐ 6,210 | 🐛 4 | 📅 2022-02-03 - RNNs code, theory and applications
 * [DL PaperNotes](https://github.com/dennybritz/deeplearning-papernotes) ⭐ 4,420 | 🐛 6 | 📅 2018-02-13 - Summaries and notes on general deep learning research papers
 * [Model Convertors](https://github.com/ysh329/deep-learning-model-convertor) ⭐ 3,236 | 🐛 2 | 📅 2023-06-26 - Convertors for DL frameworks and backend
@@ -396,7 +396,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 If you use the information contained in this repository, please let us know! This repository is cited by:
 
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,868 | 🐛 85 | 📅 2025-05-26
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,873 | 🐛 85 | 📅 2025-05-26
 * [Alexander Schindler](https://twitter.com/Slychief/status/915218386421997568)
 * [Meinard Müller, Christof Weiss, Stefan Balke](https://www.audiolabs-erlangen.de/resources/MIR/2017-GI-Tutorial-Musik/2017_MuellerWeissBalke_GI_DeepLearningMIR.pdf)
 * [WWW 2018 Challenge: Learning to Recognize Musical Genre](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre)
@@ -410,7 +410,7 @@ You are free to copy, modify, and distribute ***Deep Learning for Music (DL4M)**
 This project use another projects and you may refer to them for appropriate license information :
 
 * [Readme checklist](https://github.com/ddbeck/readme-checklist) ⭐ 666 | 🐛 3 | 📅 2025-12-12 - To build an universal Readme.
-* [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 571 | 🐛 20 | 🌐 Python | 📅 2026-09-04 - To deal with the bib entries.
+* [Bibtexparser](https://github.com/sciunto-org/python-bibtexparser) ⭐ 571 | 🐛 20 | 🌐 Python | 📅 2026-09-07 - To deal with the bib entries.
 * [Pylint](https://www.pylint.org/) - To clean the python code.
 * [Numpy](http://www.numpy.org/) - To manage python structure.
 * [Matplotlib](https://matplotlib.org/) - To plot nice figures.
@@ -419,4 +419,4 @@ This project use another projects and you may refer to them for appropriate lice
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
