@@ -1,4 +1,4 @@
-⚠️ This repo is unmaintained. While the info are still relevant, contributions to keep it up to date are welcome! A good starting point are the articles referenced here: <https://github.com/ybayle/awesome-deep-learning-music/issues/5> ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+⚠️ This repo is unmaintained. While the info are still relevant, contributions to keep it up to date are welcome! A good starting point are the articles referenced here: <https://github.com/ybayle/awesome-deep-learning-music/issues/5> ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 <img align="right" src="fig/logo.png">
 
@@ -99,7 +99,7 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2016  | [Towards playlist generation algorithms using RNNs trained on within-track transitions](https://arxiv.org/pdf/1606.02096.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | No                                                                                                                       |
 | 2016  | [Automatic tagging using deep convolutional neural networks](https://arxiv.org/pdf/1606.00298.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | No                                                                                                                       |
 | 2016  | [Automatic chord estimation on seventhsbass chord vocabulary using deep neural network](http://ieeexplore.ieee.org/abstract/document/7471677/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No                                                                                                                       |
-| 2016  | [DeepBach: A steerable model for Bach chorales generation](https://arxiv.org/pdf/1612.01010.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | [GitHub](https://github.com/Ghadjeres/DeepBach) ⭐ 519 \| 🐛 22 \| 🌐 Python \| 📅 2022-08-17                             |
+| 2016  | [DeepBach: A steerable model for Bach chorales generation](https://arxiv.org/pdf/1612.01010.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | [GitHub](https://github.com/Ghadjeres/DeepBach) ⭐ 520 \| 🐛 22 \| 🌐 Python \| 📅 2022-08-17                             |
 | 2016  | [Bayesian meter tracking on learned signal representations](http://www.rhythmos.org/MMILab-Andre_files/ISMIR2016_CNNDBNbeats_camready.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | No                                                                                                                       |
 | 2016  | [Deep learning for music](https://arxiv.org/pdf/1606.04930.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | No                                                                                                                       |
 | 2016  | [Learning temporal features using a deep neural network and its application to music genre classification](https://www.researchgate.net/profile/Il_Young_Jeong/publication/305683876_Learning_temporal_features_using_a_deep_neural_network_and_its_application_to_music_genre_classification/links/5799a27c08aec89db7bb9f92.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | No                                                                                                                       |
@@ -184,7 +184,7 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2017  | [Generating nontrivial melodies for music as a service](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/178_Paper.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No                                                                                                                       |
 | 2017  | [Invariances and data augmentation for supervised music transcription](https://arxiv.org/pdf/1711.04845.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | [GitHub](https://github.com/jthickstun/thickstun2018invariances/) ⭐ 31 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2020-02-24   |
 | 2017  | [Lyrics-based music genre classification using a hierarchical attention network](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/43_Paper.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | [GitHub](https://github.com/alexTsaptsinos/lyricsHAN) ⭐ 33 \| 🐛 1 \| 🌐 Python \| 📅 2017-12-20                         |
-| 2017  | [A hybrid DSP/deep learning approach to real-time full-band speech enhancement](https://arxiv.org/pdf/1709.08243.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | [GitHub](https://github.com/xiph/rnnoise/) ⭐ 5,834 \| 🐛 207 \| 🌐 C \| 📅 2025-02-22                                    |
+| 2017  | [A hybrid DSP/deep learning approach to real-time full-band speech enhancement](https://arxiv.org/pdf/1709.08243.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | [GitHub](https://github.com/xiph/rnnoise/) ⭐ 5,836 \| 🐛 207 \| 🌐 C \| 📅 2025-02-22                                    |
 | 2017  | [Convolutional methods for music analysis](http://vbn.aau.dk/files/260308151/PHD_Gissel_Velarde_E_pdf.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | No                                                                                                                       |
 | 2017  | [Extending temporal feature integration for semantic audio analysis](http://www.aes.org/e-lib/browse.cfm?elib=18682)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No                                                                                                                       |
 | 2017  | [Recognition and retrieval of sound events using sparse coding convolutional neural network](http://ieeexplore.ieee.org/abstract/document/8019552/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | No                                                                                                                       |
@@ -202,7 +202,7 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2019  | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [GitHub](https://github.com/openai/sparse_attention) ⚠️ Archived                                                         |
 | 2021  | [DadaGP: a Dataset of Tokenized GuitarPro Songs for Sequence Models](https://archives.ismir.net/ismir2021/paper/000076.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | [GitHub](https://github.com/dada-bots/dadaGP) ⭐ 169 \| 🐛 5 \| 🌐 Python \| 📅 2022-01-23                                |
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## DL4M details
 
@@ -227,7 +227,7 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 * `note` - Additional notes and information
 * `repro` - Indication to what extent the experiments are reproducible
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Code without articles
 
@@ -244,7 +244,7 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 * [CNN based Music Emotion Classification using TensorFlow](https://github.com/rickiepark/cnn_mer) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-11-06
 * [Pitch Estimation of Choir Music using Deep Learning Strategies: from Solo to Unison Recordings](https://github.com/helenacuesta/choir-pitch-estimation)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Statistics and visualisations
 
@@ -268,7 +268,7 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 * Only 47 articles (28%) provide their source code.
   Repeatability is the key to good science, so check out the [list of useful resources on reproducibility for MIR and ML](reproducibility.md).
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Advices for reviewers of dl4m articles
 
@@ -279,7 +279,7 @@ Please refer to the [advice\_review.md](advice_review.md) file.
 Contributions are welcome!
 Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## FAQ
 
@@ -295,19 +295,19 @@ I want to have exhaustive research and the latest news on DL4M. However, one sho
 
 The list provided here does not guarantee the quality of the articles. You should either try to reproduce the experiments described or submit a request to [ReScience](https://github.com/ReScience/ReScience) ⭐ 708 | 🐛 49 | 📅 2022-07-25. Use one article's conclusion at your own risks.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Acronyms used
 
 A list of useful acronyms used in deep learning and music is stored in [acronyms.md](acronyms.md).
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Sources
 
 The list of conferences, journals and aggregators used to gather the proposed materials is stored in [sources.md](sources.md).
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Contributors
 
@@ -321,18 +321,18 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 * [Devin Walters](https://github.com/devn)
 * <https://github.com/LegendJ>
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Other useful related lists and resources
 
 #### Audio
 
-* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 320,390 | 🐛 18 | 🌐 Python | 📅 2026-09-13 - Audio section of Python resources
+* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 320,612 | 🐛 18 | 🌐 Python | 📅 2026-09-13 - Audio section of Python resources
 * [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,660 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
-* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,491 | 🐛 36 | 📅 2026-05-27 - Music softwares
+* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,492 | 🐛 36 | 📅 2026-05-27 - Music softwares
 * [Awesome Python Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,711 | 🐛 34 | 📅 2026-09-11 - Python resources for Audio and Machine Learning
-* [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,491 | 🐛 30 | 📅 2026-07-19 - Music creation
-* [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) ⭐ 1,397 | 🐛 21 | 📅 2026-06-05 - WebAudio packages and resources
+* [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,492 | 🐛 30 | 📅 2026-07-19 - Music creation
+* [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) ⭐ 1,397 | 🐛 23 | 📅 2026-06-05 - WebAudio packages and resources
 * [Music generation with DL](https://github.com/umbrellabeach/music-generation-with-DL) ⭐ 729 | 🐛 1 | 📅 2021-08-02 - List of resources on music generation with deep learning
 * [DL4MIR tutorial with keras](https://github.com/tuwien-musicir/DL_MIR_Tutorial) ⭐ 50 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-10-04 - Tutorial for Deep Learning on Music Information Retrieval by [Thomas Lidy](http://ifs.tuwien.ac.at/~lidy/)
 * [DL4MIR tutorial](https://github.com/marl/dl4mir-tutorial) ⚠️ Archived - Python tutorials for learning to solve MIR tasks with DL
@@ -348,28 +348,28 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 * [Auditory Scene Analysis](https://mitpress.mit.edu/books/auditory-scene-analysis) - Book about the perceptual organization of sound by [Albert Bregman](https://en.wikipedia.org/wiki/Albert_Bregman), the "father of [Auditory Scene Analysis](https://en.wikipedia.org/wiki/Auditory_scene_analysis)".
   * [Demonstrations of Auditory Scene Analysis](http://webpages.mcgill.ca/staff/Group2/abregm1/web/downloadstoc.htm) - Audio demonstrations, which illustrate examples of auditory perceptual organization.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 #### Music datasets
 
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,934 | 🐛 159 | 📅 2026-09-13
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,949 | 🐛 158 | 📅 2026-09-14
 * [Awesome music listening](https://github.com/ybayle/awesome-music-listening) ⭐ 163 | 🐛 7 | 📅 2025-10-14
 * [AudioContentAnalysis nearly exhaustive list of music-related datasets](http://www.audiocontentanalysis.org/data-sets/)
 * [Teaching MIR](https://teachingmir.wikispaces.com/Datasets)
 * [Wikipedia's list of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research#cite_ref-215)
 * [Datasets for deep learning](http://deeplearning.net/datasets/)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 #### Deep learning
 
-* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,674 | 🐛 106 | 📅 2026-09-02 lists
-* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,851 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,903 | 🐛 85 | 📅 2025-05-26 - General deep learning resources
-* [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,433 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
-* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,121 | 🐛 88 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
+* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,010 | 🐛 106 | 📅 2026-09-02 lists
+* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,852 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,910 | 🐛 85 | 📅 2025-05-26 - General deep learning resources
+* [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,431 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
+* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,122 | 🐛 90 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
 * [Awesome RNNs](https://github.com/kjw0612/awesome-rnn) ⭐ 6,209 | 🐛 4 | 📅 2022-02-03 - RNNs code, theory and applications
-* [DL PaperNotes](https://github.com/dennybritz/deeplearning-papernotes) ⭐ 4,420 | 🐛 6 | 📅 2018-02-13 - Summaries and notes on general deep learning research papers
+* [DL PaperNotes](https://github.com/dennybritz/deeplearning-papernotes) ⭐ 4,419 | 🐛 6 | 📅 2018-02-13 - Summaries and notes on general deep learning research papers
 * [Model Convertors](https://github.com/ysh329/deep-learning-model-convertor) ⭐ 3,235 | 🐛 2 | 📅 2023-06-26 - Convertors for DL frameworks and backend
 * [Awesome Deep Learning Resources](https://github.com/endymecy/awesome-deeplearning-resources) ⭐ 3,027 | 🐛 3 | 📅 2026-01-28 - Papers regarding deep learning and deep reinforcement learning
 * [Deep architecture genealogy](https://github.com/hunkim/deep_architecture_genealogy) ⭐ 1,220 | 🐛 6 | 🌐 Python | 📅 2021-02-14 - Genealogy of DL architectures
@@ -390,19 +390,19 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 * [Battle of the Deep Learning frameworks](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750) - DL frameworks comparison and evolution
 * [Black-box optimization](http://timvieira.github.io/blog/post/2018/03/16/black-box-optimization/) - There are other optimization algorithms than just gradient descent
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## Cited by
 
 If you use the information contained in this repository, please let us know! This repository is cited by:
 
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,903 | 🐛 85 | 📅 2025-05-26
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,910 | 🐛 85 | 📅 2025-05-26
 * [Alexander Schindler](https://twitter.com/Slychief/status/915218386421997568)
 * [Meinard Müller, Christof Weiss, Stefan Balke](https://www.audiolabs-erlangen.de/resources/MIR/2017-GI-Tutorial-Musik/2017_MuellerWeissBalke_GI_DeepLearningMIR.pdf)
 * [WWW 2018 Challenge: Learning to Recognize Musical Genre](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre)
 * [AINewsFeed](https://twitter.com/AINewsFeed/status/897832912351105025)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ## License
 
@@ -415,8 +415,8 @@ This project use another projects and you may refer to them for appropriate lice
 * [Numpy](http://www.numpy.org/) - To manage python structure.
 * [Matplotlib](https://matplotlib.org/) - To plot nice figures.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 7 | 🌐 TeX | 📅 2023-12-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
