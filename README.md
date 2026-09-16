@@ -327,12 +327,12 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Audio
 
-* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 320,809 | 🐛 18 | 🌐 Python | 📅 2026-09-15 - Audio section of Python resources
-* [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,661 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
-* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,492 | 🐛 39 | 📅 2026-05-27 - Music softwares
-* [Awesome Python Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,711 | 🐛 34 | 📅 2026-09-11 - Python resources for Audio and Machine Learning
-* [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,493 | 🐛 33 | 📅 2026-07-19 - Music creation
-* [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) ⭐ 1,398 | 🐛 24 | 📅 2026-06-05 - WebAudio packages and resources
+* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 321,058 | 🐛 19 | 🌐 Python | 📅 2026-09-15 - Audio section of Python resources
+* [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,662 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
+* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,492 | 🐛 40 | 📅 2026-05-27 - Music softwares
+* [Awesome Python Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,712 | 🐛 34 | 📅 2026-09-11 - Python resources for Audio and Machine Learning
+* [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,494 | 🐛 34 | 📅 2026-09-16 - Music creation
+* [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) ⭐ 1,397 | 🐛 24 | 📅 2026-06-05 - WebAudio packages and resources
 * [Music generation with DL](https://github.com/umbrellabeach/music-generation-with-DL) ⭐ 729 | 🐛 1 | 📅 2021-08-02 - List of resources on music generation with deep learning
 * [DL4MIR tutorial with keras](https://github.com/tuwien-musicir/DL_MIR_Tutorial) ⭐ 50 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-10-04 - Tutorial for Deep Learning on Music Information Retrieval by [Thomas Lidy](http://ifs.tuwien.ac.at/~lidy/)
 * [DL4MIR tutorial](https://github.com/marl/dl4mir-tutorial) ⚠️ Archived - Python tutorials for learning to solve MIR tasks with DL
@@ -352,7 +352,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Music datasets
 
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,964 | 🐛 158 | 📅 2026-09-15
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,984 | 🐛 158 | 📅 2026-09-16
 * [Awesome music listening](https://github.com/ybayle/awesome-music-listening) ⭐ 163 | 🐛 7 | 📅 2025-10-14
 * [AudioContentAnalysis nearly exhaustive list of music-related datasets](http://www.audiocontentanalysis.org/data-sets/)
 * [Teaching MIR](https://teachingmir.wikispaces.com/Datasets)
@@ -363,13 +363,13 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Deep learning
 
-* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,298 | 🐛 106 | 📅 2026-09-02 lists
-* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,861 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,920 | 🐛 85 | 📅 2025-05-26 - General deep learning resources
+* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,683 | 🐛 106 | 📅 2026-09-02 lists
+* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,865 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,927 | 🐛 85 | 📅 2025-05-26 - General deep learning resources
 * [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,431 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
-* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,123 | 🐛 90 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
+* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,121 | 🐛 90 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
 * [Awesome RNNs](https://github.com/kjw0612/awesome-rnn) ⭐ 6,209 | 🐛 4 | 📅 2022-02-03 - RNNs code, theory and applications
-* [DL PaperNotes](https://github.com/dennybritz/deeplearning-papernotes) ⭐ 4,419 | 🐛 6 | 📅 2018-02-13 - Summaries and notes on general deep learning research papers
+* [DL PaperNotes](https://github.com/dennybritz/deeplearning-papernotes) ⭐ 4,420 | 🐛 6 | 📅 2018-02-13 - Summaries and notes on general deep learning research papers
 * [Model Convertors](https://github.com/ysh329/deep-learning-model-convertor) ⭐ 3,235 | 🐛 2 | 📅 2023-06-26 - Convertors for DL frameworks and backend
 * [Awesome Deep Learning Resources](https://github.com/endymecy/awesome-deeplearning-resources) ⭐ 3,028 | 🐛 3 | 📅 2026-01-28 - Papers regarding deep learning and deep reinforcement learning
 * [Deep architecture genealogy](https://github.com/hunkim/deep_architecture_genealogy) ⭐ 1,220 | 🐛 6 | 🌐 Python | 📅 2021-02-14 - Genealogy of DL architectures
@@ -396,7 +396,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 If you use the information contained in this repository, please let us know! This repository is cited by:
 
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,920 | 🐛 85 | 📅 2025-05-26
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,927 | 🐛 85 | 📅 2025-05-26
 * [Alexander Schindler](https://twitter.com/Slychief/status/915218386421997568)
 * [Meinard Müller, Christof Weiss, Stefan Balke](https://www.audiolabs-erlangen.de/resources/MIR/2017-GI-Tutorial-Musik/2017_MuellerWeissBalke_GI_DeepLearningMIR.pdf)
 * [WWW 2018 Challenge: Learning to Recognize Musical Genre](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre)
@@ -419,4 +419,4 @@ This project use another projects and you may refer to them for appropriate lice
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
