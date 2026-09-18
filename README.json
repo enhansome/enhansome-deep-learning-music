@@ -854,7 +854,7 @@
             "open_issues": 207,
             "owner": "xiph",
             "repo": "rnnoise",
-            "stars": 5845,
+            "stars": 5847,
             "topics": [
               "audio",
               "c",
@@ -929,7 +929,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19798,
+            "stars": 19796,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
@@ -950,7 +950,7 @@
             "open_issues": 12,
             "owner": "openai",
             "repo": "sparse_attention",
-            "stars": 1613,
+            "stars": 1612,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
@@ -1283,10 +1283,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T16:48:04Z",
-                "open_issues": 21,
+                "open_issues": 23,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 321287,
+                "stars": 321498,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1376,7 +1376,7 @@
                 "open_issues": 34,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": [
                   "audio",
                   "awesome-list",
@@ -1398,10 +1398,10 @@
                 "language": null,
                 "license": "ISC",
                 "last_commit": "2026-09-16T09:26:35Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1497,
+                "stars": 1498,
                 "topics": [
                   "audio",
                   "instrument",
@@ -1531,11 +1531,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-17T14:38:36Z",
-                "open_issues": 158,
+                "last_commit": "2026-09-18T16:20:13Z",
+                "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79002,
+                "stars": 79023,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1595,7 +1595,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 507096,
+                "stars": 507432,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1622,7 +1622,7 @@
                 "open_issues": 78,
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 32871,
+                "stars": 32882,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -1651,7 +1651,7 @@
                 "open_issues": 86,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28933,
+                "stars": 28935,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1879,7 +1879,7 @@
             "open_issues": 86,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28933,
+            "stars": 28935,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:32:12.103Z",
+    "last_updated": "2026-09-18T17:51:44.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of articles related to deep learning applied to music",
