@@ -1,4 +1,4 @@
-⚠️ This repo is unmaintained. While the info are still relevant, contributions to keep it up to date are welcome! A good starting point are the articles referenced here: <https://github.com/ybayle/awesome-deep-learning-music/issues/5> ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+⚠️ This repo is unmaintained. While the info are still relevant, contributions to keep it up to date are welcome! A good starting point are the articles referenced here: <https://github.com/ybayle/awesome-deep-learning-music/issues/5> ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 <img align="right" src="fig/logo.png">
 
@@ -184,7 +184,7 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2017  | [Generating nontrivial melodies for music as a service](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/178_Paper.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No                                                                                                                       |
 | 2017  | [Invariances and data augmentation for supervised music transcription](https://arxiv.org/pdf/1711.04845.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | [GitHub](https://github.com/jthickstun/thickstun2018invariances/) ⭐ 31 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2020-02-24   |
 | 2017  | [Lyrics-based music genre classification using a hierarchical attention network](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/43_Paper.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | [GitHub](https://github.com/alexTsaptsinos/lyricsHAN) ⭐ 33 \| 🐛 1 \| 🌐 Python \| 📅 2017-12-20                         |
-| 2017  | [A hybrid DSP/deep learning approach to real-time full-band speech enhancement](https://arxiv.org/pdf/1709.08243.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | [GitHub](https://github.com/xiph/rnnoise/) ⭐ 5,848 \| 🐛 207 \| 🌐 C \| 📅 2025-02-22                                    |
+| 2017  | [A hybrid DSP/deep learning approach to real-time full-band speech enhancement](https://arxiv.org/pdf/1709.08243.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | [GitHub](https://github.com/xiph/rnnoise/) ⭐ 5,851 \| 🐛 207 \| 🌐 C \| 📅 2025-02-22                                    |
 | 2017  | [Convolutional methods for music analysis](http://vbn.aau.dk/files/260308151/PHD_Gissel_Velarde_E_pdf.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | No                                                                                                                       |
 | 2017  | [Extending temporal feature integration for semantic audio analysis](http://www.aes.org/e-lib/browse.cfm?elib=18682)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No                                                                                                                       |
 | 2017  | [Recognition and retrieval of sound events using sparse coding convolutional neural network](http://ieeexplore.ieee.org/abstract/document/8019552/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | No                                                                                                                       |
@@ -195,14 +195,14 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2017  | [Attention and localization based on a deep convolutional recurrent model for weakly supervised audio tagging](https://arxiv.org/pdf/1703.06052.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | [GitHub](https://github.com/yongxuUSTC/att_loc_cgrnn)                                                                    |
 | 2017  | [Surrey-CVSSP system for DCASE2017 challenge task4](https://www.cs.tut.fi/sgn/arg/dcase2017/documents/challenge_technical_reports/DCASE2017_Xu_146.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | [GitHub](https://github.com/yongxuUSTC/dcase2017_task4_cvssp) ⭐ 4 \| 🐛 0 \| 🌐 Python \| 📅 2023-09-22                  |
 | 2017  | [A study on LSTM networks for polyphonic music sequence modelling](https://qmro.qmul.ac.uk/xmlui/handle/123456789/24946)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | [Website](http://www.eecs.qmul.ac.uk/~ay304/code/ismir17)                                                                |
-| 2018  | [MuseGAN: Multi-track sequential generative adversarial networks for symbolic music generation and accompaniment](https://arxiv.org/pdf/1709.06298.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | [GitHub](https://github.com/salu133445/musegan) ⭐ 2,043 \| 🐛 21 \| 🌐 Python \| 📅 2024-06-07                           |
+| 2018  | [MuseGAN: Multi-track sequential generative adversarial networks for symbolic music generation and accompaniment](https://arxiv.org/pdf/1709.06298.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | [GitHub](https://github.com/salu133445/musegan) ⭐ 2,044 \| 🐛 21 \| 🌐 Python \| 📅 2024-06-07                           |
 | 2018  | [Music transformer: Generating music with long-term structure](https://arxiv.org/pdf/1809.04281.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No                                                                                                                       |
 | 2018  | [Music theory inspired policy gradient method for piano music transcription](https://nips2018creativity.github.io/doc/music_theory_inspired_policy_gradient.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | No                                                                                                                       |
 | 2019  | [Enabling factorized piano music modeling and generation with the MAESTRO dataset](https://arxiv.org/abs/1810.12247)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | [GitHub](https://github.com/magenta/magenta/tree/master/magenta/models/onsets_frames_transcription) ⚠️ Archived          |
 | 2019  | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [GitHub](https://github.com/openai/sparse_attention) ⚠️ Archived                                                         |
 | 2021  | [DadaGP: a Dataset of Tokenized GuitarPro Songs for Sequence Models](https://archives.ismir.net/ismir2021/paper/000076.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | [GitHub](https://github.com/dada-bots/dadaGP) ⭐ 169 \| 🐛 5 \| 🌐 Python \| 📅 2022-01-23                                |
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## DL4M details
 
@@ -227,7 +227,7 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 * `note` - Additional notes and information
 * `repro` - Indication to what extent the experiments are reproducible
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## Code without articles
 
@@ -244,7 +244,7 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 * [CNN based Music Emotion Classification using TensorFlow](https://github.com/rickiepark/cnn_mer) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-11-06
 * [Pitch Estimation of Choir Music using Deep Learning Strategies: from Solo to Unison Recordings](https://github.com/helenacuesta/choir-pitch-estimation)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## Statistics and visualisations
 
@@ -268,7 +268,7 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 * Only 47 articles (28%) provide their source code.
   Repeatability is the key to good science, so check out the [list of useful resources on reproducibility for MIR and ML](reproducibility.md).
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## Advices for reviewers of dl4m articles
 
@@ -279,7 +279,7 @@ Please refer to the [advice\_review.md](advice_review.md) file.
 Contributions are welcome!
 Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## FAQ
 
@@ -295,19 +295,19 @@ I want to have exhaustive research and the latest news on DL4M. However, one sho
 
 The list provided here does not guarantee the quality of the articles. You should either try to reproduce the experiments described or submit a request to [ReScience](https://github.com/ReScience/ReScience) ⭐ 708 | 🐛 50 | 📅 2022-07-25. Use one article's conclusion at your own risks.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## Acronyms used
 
 A list of useful acronyms used in deep learning and music is stored in [acronyms.md](acronyms.md).
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## Sources
 
 The list of conferences, journals and aggregators used to gather the proposed materials is stored in [sources.md](sources.md).
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## Contributors
 
@@ -321,20 +321,20 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 * [Devin Walters](https://github.com/devn)
 * <https://github.com/LegendJ>
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## Other useful related lists and resources
 
 #### Audio
 
-* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 321,704 | 🐛 26 | 🌐 Python | 📅 2026-09-18 - Audio section of Python resources
-* [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,663 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
-* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,493 | 🐛 41 | 📅 2026-05-27 - Music softwares
+* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 321,895 | 🐛 19 | 🌐 Python | 📅 2026-09-20 - Audio section of Python resources
+* [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,664 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
+* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,495 | 🐛 42 | 📅 2026-05-27 - Music softwares
 * [Awesome Python Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,714 | 🐛 34 | 📅 2026-09-11 - Python resources for Audio and Machine Learning
-* [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,499 | 🐛 38 | 📅 2026-09-16 - Music creation
+* [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,500 | 🐛 38 | 📅 2026-09-16 - Music creation
 * [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) ⭐ 1,397 | 🐛 26 | 📅 2026-06-05 - WebAudio packages and resources
 * [Music generation with DL](https://github.com/umbrellabeach/music-generation-with-DL) ⭐ 729 | 🐛 1 | 📅 2021-08-02 - List of resources on music generation with deep learning
-* [DL4MIR tutorial with keras](https://github.com/tuwien-musicir/DL_MIR_Tutorial) ⭐ 50 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-10-04 - Tutorial for Deep Learning on Music Information Retrieval by [Thomas Lidy](http://ifs.tuwien.ac.at/~lidy/)
+* [DL4MIR tutorial with keras](https://github.com/tuwien-musicir/DL_MIR_Tutorial) ⭐ 51 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-10-04 - Tutorial for Deep Learning on Music Information Retrieval by [Thomas Lidy](http://ifs.tuwien.ac.at/~lidy/)
 * [DL4MIR tutorial](https://github.com/marl/dl4mir-tutorial) ⚠️ Archived - Python tutorials for learning to solve MIR tasks with DL
 * [Video talk from Ron Weiss](https://www.youtube.com/watch?v=sI_8EA0_ha8) - Ron Weiss (Google) Talk on Training neural network acoustic models on waveforms
 * [Slides on DL4M](http://www.jordipons.me/media/DL4Music_Pons.pdf) - A personal (re)view of the state-of-the-art by [Jordi Pons](http://www.jordipons.me/)
@@ -348,27 +348,27 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 * [Auditory Scene Analysis](https://mitpress.mit.edu/books/auditory-scene-analysis) - Book about the perceptual organization of sound by [Albert Bregman](https://en.wikipedia.org/wiki/Albert_Bregman), the "father of [Auditory Scene Analysis](https://en.wikipedia.org/wiki/Auditory_scene_analysis)".
   * [Demonstrations of Auditory Scene Analysis](http://webpages.mcgill.ca/staff/Group2/abregm1/web/downloadstoc.htm) - Audio demonstrations, which illustrate examples of auditory perceptual organization.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 #### Music datasets
 
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,039 | 🐛 160 | 📅 2026-09-18
-* [Awesome music listening](https://github.com/ybayle/awesome-music-listening) ⭐ 163 | 🐛 7 | 📅 2025-10-14
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,058 | 🐛 160 | 📅 2026-09-18
+* [Awesome music listening](https://github.com/ybayle/awesome-music-listening) ⭐ 163 | 🐛 8 | 📅 2025-10-14
 * [AudioContentAnalysis nearly exhaustive list of music-related datasets](http://www.audiocontentanalysis.org/data-sets/)
 * [Teaching MIR](https://teachingmir.wikispaces.com/Datasets)
 * [Wikipedia's list of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research#cite_ref-215)
 * [Datasets for deep learning](http://deeplearning.net/datasets/)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 #### Deep learning
 
-* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,795 | 🐛 106 | 📅 2026-09-02 lists
-* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,886 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
+* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,156 | 🐛 106 | 📅 2026-09-02 lists
+* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,892 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,940 | 🐛 87 | 📅 2025-05-26 - General deep learning resources
 * [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,432 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
-* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,121 | 🐛 93 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
-* [Awesome RNNs](https://github.com/kjw0612/awesome-rnn) ⭐ 6,210 | 🐛 4 | 📅 2022-02-03 - RNNs code, theory and applications
+* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
+* [Awesome RNNs](https://github.com/kjw0612/awesome-rnn) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03 - RNNs code, theory and applications
 * [DL PaperNotes](https://github.com/dennybritz/deeplearning-papernotes) ⭐ 4,420 | 🐛 6 | 📅 2018-02-13 - Summaries and notes on general deep learning research papers
 * [Model Convertors](https://github.com/ysh329/deep-learning-model-convertor) ⭐ 3,235 | 🐛 2 | 📅 2023-06-26 - Convertors for DL frameworks and backend
 * [Awesome Deep Learning Resources](https://github.com/endymecy/awesome-deeplearning-resources) ⭐ 3,029 | 🐛 3 | 📅 2026-01-28 - Papers regarding deep learning and deep reinforcement learning
@@ -390,7 +390,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 * [Battle of the Deep Learning frameworks](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750) - DL frameworks comparison and evolution
 * [Black-box optimization](http://timvieira.github.io/blog/post/2018/03/16/black-box-optimization/) - There are other optimization algorithms than just gradient descent
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## Cited by
 
@@ -402,7 +402,7 @@ If you use the information contained in this repository, please let us know! Thi
 * [WWW 2018 Challenge: Learning to Recognize Musical Genre](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre)
 * [AINewsFeed](https://twitter.com/AINewsFeed/status/897832912351105025)
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ## License
 
@@ -415,8 +415,8 @@ This project use another projects and you may refer to them for appropriate lice
 * [Numpy](http://www.numpy.org/) - To manage python structure.
 * [Matplotlib](https://matplotlib.org/) - To plot nice figures.
 
-[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,986 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
+[Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

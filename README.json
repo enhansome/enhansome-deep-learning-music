@@ -854,7 +854,7 @@
             "open_issues": 207,
             "owner": "xiph",
             "repo": "rnnoise",
-            "stars": 5848,
+            "stars": 5851,
             "topics": [
               "audio",
               "c",
@@ -901,7 +901,7 @@
             "open_issues": 21,
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2043,
+            "stars": 2044,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -1282,11 +1282,11 @@
                 "id": 21289110,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T22:11:03Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-20T15:48:45Z",
+                "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 321704,
+                "stars": 321895,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1314,7 +1314,7 @@
                 "open_issues": 15,
                 "owner": "mdeff",
                 "repo": "fma",
-                "stars": 2663,
+                "stars": 2664,
                 "topics": [
                   "dataset",
                   "deep-learning",
@@ -1340,10 +1340,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-27T20:46:02Z",
-                "open_issues": 41,
+                "open_issues": 42,
                 "owner": "noteflakes",
                 "repo": "awesome-music",
-                "stars": 2493,
+                "stars": 2495,
                 "topics": [
                   "audio",
                   "awesome",
@@ -1401,7 +1401,7 @@
                 "open_issues": 38,
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1499,
+                "stars": 1500,
                 "topics": [
                   "audio",
                   "instrument",
@@ -1486,7 +1486,7 @@
                 "open_issues": 0,
                 "owner": "tuwien-musicir",
                 "repo": "DL_MIR_Tutorial",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
@@ -1535,7 +1535,7 @@
                 "open_issues": 160,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79039,
+                "stars": 79058,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1558,7 +1558,7 @@
                 "language": null,
                 "license": "GPL-3.0",
                 "last_commit": "2025-10-14T15:27:58Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "ybayle",
                 "repo": "awesome-music-listening",
                 "stars": 163,
@@ -1595,7 +1595,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 507795,
+                "stars": 508156,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1622,7 +1622,7 @@
                 "open_issues": 78,
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 32886,
+                "stars": 32892,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -1708,7 +1708,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-29T16:33:16Z",
-                "open_issues": 93,
+                "open_issues": 94,
                 "owner": "scikit-learn-contrib",
                 "repo": "imbalanced-learn",
                 "stars": 7121,
@@ -1738,7 +1738,7 @@
                 "open_issues": 4,
                 "owner": "kjw0612",
                 "repo": "awesome-rnn",
-                "stars": 6210,
+                "stars": 6211,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:25.876Z"
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:25:58.395Z",
+    "last_updated": "2026-09-20T17:39:28.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of articles related to deep learning applied to music",
@@ -1964,7 +1964,7 @@
       "open_issues": 8,
       "owner": "ybayle",
       "repo": "awesome-deep-learning-music",
-      "stars": 2986,
+      "stars": 2987,
       "topics": [
         "article",
         "audio",
