@@ -200,7 +200,7 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2018  | [Music theory inspired policy gradient method for piano music transcription](https://nips2018creativity.github.io/doc/music_theory_inspired_policy_gradient.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | No                                                                                                                       |
 | 2019  | [Enabling factorized piano music modeling and generation with the MAESTRO dataset](https://arxiv.org/abs/1810.12247)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | [GitHub](https://github.com/magenta/magenta/tree/master/magenta/models/onsets_frames_transcription) ⚠️ Archived          |
 | 2019  | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [GitHub](https://github.com/openai/sparse_attention) ⚠️ Archived                                                         |
-| 2021  | [DadaGP: a Dataset of Tokenized GuitarPro Songs for Sequence Models](https://archives.ismir.net/ismir2021/paper/000076.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | [GitHub](https://github.com/dada-bots/dadaGP) ⭐ 171 \| 🐛 5 \| 🌐 Python \| 📅 2022-01-23                                |
+| 2021  | [DadaGP: a Dataset of Tokenized GuitarPro Songs for Sequence Models](https://archives.ismir.net/ismir2021/paper/000076.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | [GitHub](https://github.com/dada-bots/dadaGP) ⭐ 172 \| 🐛 5 \| 🌐 Python \| 📅 2022-01-23                                |
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 
@@ -327,11 +327,11 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Audio
 
-* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 323,822 | 🐛 19 | 🌐 Python | 📅 2026-09-28 - Audio section of Python resources
-* [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,667 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
-* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,503 | 🐛 47 | 📅 2026-05-27 - Music softwares
+* [Awesome Python](https://github.com/vinta/awesome-python#audio) ⭐ 324,048 | 🐛 20 | 🌐 Python | 📅 2026-09-29 - Audio section of Python resources
+* [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) ⭐ 2,670 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-01-05 dataset
+* [Awesome Music](https://github.com/ciconia/awesome-music) ⭐ 2,502 | 🐛 47 | 📅 2026-05-27 - Music softwares
 * [Awesome Python Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,715 | 🐛 34 | 📅 2026-09-11 - Python resources for Audio and Machine Learning
-* [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,507 | 🐛 44 | 📅 2026-09-23 - Music creation
+* [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,508 | 🐛 44 | 📅 2026-09-23 - Music creation
 * [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) ⭐ 1,398 | 🐛 29 | 📅 2026-06-05 - WebAudio packages and resources
 * [Music generation with DL](https://github.com/umbrellabeach/music-generation-with-DL) ⭐ 729 | 🐛 1 | 📅 2021-08-02 - List of resources on music generation with deep learning
 * [DL4MIR tutorial with keras](https://github.com/tuwien-musicir/DL_MIR_Tutorial) ⭐ 51 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-10-04 - Tutorial for Deep Learning on Music Information Retrieval by [Thomas Lidy](http://ifs.tuwien.ac.at/~lidy/)
@@ -352,7 +352,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Music datasets
 
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,213 | 🐛 161 | 📅 2026-09-23
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,240 | 🐛 161 | 📅 2026-09-29
 * [Awesome music listening](https://github.com/ybayle/awesome-music-listening) ⭐ 166 | 🐛 8 | 📅 2025-10-14
 * [AudioContentAnalysis nearly exhaustive list of music-related datasets](http://www.audiocontentanalysis.org/data-sets/)
 * [Teaching MIR](https://teachingmir.wikispaces.com/Datasets)
@@ -363,11 +363,11 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 #### Deep learning
 
-* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,950 | 🐛 106 | 📅 2026-09-02 lists
-* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,932 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,988 | 🐛 88 | 📅 2025-05-26 - General deep learning resources
-* [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,434 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
-* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,118 | 🐛 99 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
+* General [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,381 | 🐛 106 | 📅 2026-09-02 lists
+* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,936 | 🐛 81 | 🌐 Python | 📅 2023-10-15 - Python implementations of ML models and algorithms from scratch from Data Mining to DL
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,991 | 🐛 88 | 📅 2025-05-26 - General deep learning resources
+* [Cheatsheets AI](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,433 | 🐛 12 | 📅 2019-10-19 - Cheat Sheets for Keras, neural networks, scikit-learn,...
+* [GitHub repo for sklearn add-on for imbalanced learning](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,119 | 🐛 100 | 🌐 Python | 📅 2026-06-29 - ML in uneven datasets
 * [Awesome RNNs](https://github.com/kjw0612/awesome-rnn) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03 - RNNs code, theory and applications
 * [DL PaperNotes](https://github.com/dennybritz/deeplearning-papernotes) ⭐ 4,420 | 🐛 6 | 📅 2018-02-13 - Summaries and notes on general deep learning research papers
 * [Model Convertors](https://github.com/ysh329/deep-learning-model-convertor) ⭐ 3,235 | 🐛 2 | 📅 2023-06-26 - Convertors for DL frameworks and backend
@@ -396,7 +396,7 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 
 If you use the information contained in this repository, please let us know! This repository is cited by:
 
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,988 | 🐛 88 | 📅 2025-05-26
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,991 | 🐛 88 | 📅 2025-05-26
 * [Alexander Schindler](https://twitter.com/Slychief/status/915218386421997568)
 * [Meinard Müller, Christof Weiss, Stefan Balke](https://www.audiolabs-erlangen.de/resources/MIR/2017-GI-Tutorial-Musik/2017_MuellerWeissBalke_GI_DeepLearningMIR.pdf)
 * [WWW 2018 Challenge: Learning to Recognize Musical Genre](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre)
@@ -419,4 +419,4 @@ This project use another projects and you may refer to them for appropriate lice
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
