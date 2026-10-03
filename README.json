@@ -153,7 +153,7 @@
         {
           "node_type": "item",
           "title": "Deep convolutional networks on the pitch spiral for musical instrument recognition",
-          "description": null,
+          "description": "lostanlen/ismir2016",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
         {
           "node_type": "item",
           "title": "lostanlen/ismir2016",
-          "description": null,
+          "description": "lostanlen/ismir2016",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -688,7 +688,7 @@
         {
           "node_type": "item",
           "title": "Timbre analysis of music audio signals with convolutional neural networks",
-          "description": null,
+          "description": "ronggong/EUSIPCO2017",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -715,7 +715,7 @@
         {
           "node_type": "item",
           "title": "jordipons/EUSIPCO2017",
-          "description": null,
+          "description": "jordipons/EUSIPCO2017",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -854,7 +854,7 @@
             "open_issues": 207,
             "owner": "xiph",
             "repo": "rnnoise",
-            "stars": 5877,
+            "stars": 5878,
             "topics": [
               "audio",
               "c",
@@ -964,7 +964,7 @@
         {
           "node_type": "item",
           "title": "Deep learning driven jazz generation using Keras & Theano",
-          "description": null,
+          "description": "jisungk/deepjazz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -995,7 +995,7 @@
         {
           "node_type": "item",
           "title": "Finding the genre of a song with Deep Learning",
-          "description": null,
+          "description": "despoisj/DeepAudioClassification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1022,7 +1022,7 @@
         {
           "node_type": "item",
           "title": "Separating singing voice from music based on deep neural networks in Tensorflow",
-          "description": null,
+          "description": "andabi/music-source-separation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1043,7 +1043,7 @@
         {
           "node_type": "item",
           "title": "Music Genre Classification with LSTMs",
-          "description": null,
+          "description": "ruohoruotsi/LSTM-Music-Genre-Classification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1076,7 +1076,7 @@
         {
           "node_type": "item",
           "title": "Music Genre classification on GTZAN dataset using CNNs",
-          "description": null,
+          "description": "Hguimaraes/gtzan.keras",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1103,7 +1103,7 @@
         {
           "node_type": "item",
           "title": "Audio Classifier in Keras using Convolutional Neural Network",
-          "description": null,
+          "description": "drscotthawley/audio-classifier-keras-cnn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1124,7 +1124,7 @@
         {
           "node_type": "item",
           "title": "End-to-end learning for music audio tagging at scale",
-          "description": null,
+          "description": "jordipons/music-audio-tagging-at-scale-models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1145,7 +1145,7 @@
         {
           "node_type": "item",
           "title": "Composing music using neural nets",
-          "description": null,
+          "description": "fephsun/neuralnetmusic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1166,7 +1166,7 @@
         {
           "node_type": "item",
           "title": "Music tag classification model using CRNN",
-          "description": null,
+          "description": "kristijanbartol/Deep-Music-Tagger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1202,7 +1202,7 @@
         {
           "node_type": "item",
           "title": "Performance-RNN-PyTorch",
-          "description": null,
+          "description": "djosix/Performance-RNN-PyTorch",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1223,7 +1223,7 @@
         {
           "node_type": "item",
           "title": "CNN based Music Emotion Classification using TensorFlow",
-          "description": null,
+          "description": "rickiepark/cnn_mer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1262,10 +1262,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T12:01:28Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 324703,
+                "stars": 324779,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1501,7 +1501,7 @@
             {
               "node_type": "item",
               "title": "Awesome public datasets",
-              "description": null,
+              "description": "awesomedata/awesome-public-datasets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1510,11 +1510,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:28:24Z",
+                "last_commit": "2026-10-02T19:47:28Z",
                 "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79274,
+                "stars": 79277,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1527,7 +1527,7 @@
             {
               "node_type": "item",
               "title": "Awesome music listening",
-              "description": null,
+              "description": "ybayle/awesome-music-listening",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1574,7 +1574,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513669,
+                "stars": 513795,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1630,7 +1630,7 @@
                 "open_issues": 88,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29001,
+                "stars": 29002,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1690,7 +1690,7 @@
                 "open_issues": 103,
                 "owner": "scikit-learn-contrib",
                 "repo": "imbalanced-learn",
-                "stars": 7124,
+                "stars": 7125,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -1845,7 +1845,7 @@
         {
           "node_type": "item",
           "title": "Awesome Deep Learning",
-          "description": null,
+          "description": "ChristosChristofidis/awesome-deep-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1858,7 +1858,7 @@
             "open_issues": 88,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29001,
+            "stars": 29002,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1931,7 +1931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:30:25.225Z",
+    "last_updated": "2026-10-03T04:43:58.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of articles related to deep learning applied to music",
