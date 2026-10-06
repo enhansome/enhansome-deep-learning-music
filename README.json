@@ -854,7 +854,7 @@
             "open_issues": 207,
             "owner": "xiph",
             "repo": "rnnoise",
-            "stars": 5880,
+            "stars": 5884,
             "topics": [
               "audio",
               "c",
@@ -880,7 +880,7 @@
             "open_issues": 21,
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2045,
+            "stars": 2046,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -908,7 +908,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19792,
+            "stars": 19793,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
@@ -1265,7 +1265,7 @@
                 "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 325389,
+                "stars": 325516,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1322,7 +1322,7 @@
                 "open_issues": 47,
                 "owner": "noteflakes",
                 "repo": "awesome-music",
-                "stars": 2508,
+                "stars": 2510,
                 "topics": [
                   "audio",
                   "awesome",
@@ -1377,10 +1377,10 @@
                 "language": null,
                 "license": "ISC",
                 "last_commit": "2026-10-05T10:58:10Z",
-                "open_issues": 48,
+                "open_issues": 47,
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1513,
+                "stars": 1515,
                 "topics": [
                   "audio",
                   "instrument",
@@ -1514,7 +1514,7 @@
                 "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79318,
+                "stars": 79328,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1571,10 +1571,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-02T02:10:47Z",
-                "open_issues": 107,
+                "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 515130,
+                "stars": 515372,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1601,7 +1601,7 @@
                 "open_issues": 81,
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 32949,
+                "stars": 32952,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -1630,7 +1630,7 @@
                 "open_issues": 90,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29010,
+                "stars": 29013,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1759,7 +1759,7 @@
                 "open_issues": 2,
                 "owner": "ysh329",
                 "repo": "deep-learning-model-convertor",
-                "stars": 3235,
+                "stars": 3234,
                 "topics": [
                   "awesome-list",
                   "caffe",
@@ -1858,7 +1858,7 @@
             "open_issues": 90,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29010,
+            "stars": 29013,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1931,7 +1931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:37:32.978Z",
+    "last_updated": "2026-10-06T11:05:05.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of articles related to deep learning applied to music",
