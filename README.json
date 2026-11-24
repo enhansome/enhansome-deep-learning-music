@@ -103,7 +103,7 @@
             "open_issues": 22,
             "owner": "Ghadjeres",
             "repo": "DeepBach",
-            "stars": 520,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:25.876Z"
@@ -854,7 +854,7 @@
             "open_issues": 208,
             "owner": "xiph",
             "repo": "rnnoise",
-            "stars": 5980,
+            "stars": 5982,
             "topics": [
               "audio",
               "c",
@@ -1262,10 +1262,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-17T10:02:01Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 336716,
+                "stars": 336929,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1322,7 +1322,7 @@
                 "open_issues": 66,
                 "owner": "noteflakes",
                 "repo": "awesome-music",
-                "stars": 2553,
+                "stars": 2554,
                 "topics": [
                   "audio",
                   "awesome",
@@ -1408,7 +1408,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-26T08:37:45Z",
-                "open_issues": 36,
+                "open_issues": 41,
                 "owner": "notthetup",
                 "repo": "awesome-webaudio",
                 "stars": 1407,
@@ -1510,11 +1510,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-23T21:31:06Z",
+                "last_commit": "2026-11-24T20:56:37Z",
                 "open_issues": 171,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 80274,
+                "stars": 80386,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1574,7 +1574,7 @@
                 "open_issues": 103,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 541701,
+                "stars": 542318,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1601,7 +1601,7 @@
                 "open_issues": 82,
                 "owner": "eriklindernoren",
                 "repo": "ML-From-Scratch",
-                "stars": 33428,
+                "stars": 33439,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -1630,7 +1630,7 @@
                 "open_issues": 89,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29222,
+                "stars": 29227,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1661,7 +1661,7 @@
                 "open_issues": 12,
                 "owner": "kailashahirwar",
                 "repo": "cheatsheets-ai",
-                "stars": 15446,
+                "stars": 15447,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1858,7 +1858,7 @@
             "open_issues": 89,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29222,
+            "stars": 29227,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1913,7 +1913,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-05T19:56:24Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "sciunto-org",
             "repo": "python-bibtexparser",
             "stars": 573,
@@ -1931,7 +1931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:52:58.152Z",
+    "last_updated": "2026-11-24T23:37:40.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of articles related to deep learning applied to music",
